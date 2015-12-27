@@ -1,9 +1,18 @@
 const koa = require('koa');
 const app = new koa();
 const routes = require('koa-route');
+const views = require('koa-views');
+
+app.use(views('views', {
+
+    map: {
+          html: 'nunjucks'
+            }
+
+}));
 
 function *home(){
-  this.body = "Home Page";
+  yield this.render('index', {});
 }
 
 function *about_us(){
