@@ -4,7 +4,7 @@ const routes = require('koa-route');
 const views = require('koa-views');
 const monk = require('monk');
 const wrap = require('co-monk');
-const serve = require('koa-static-folder');
+const serve = require('koa-static');
 
 // This library help us to interact with post requests
 const parse = require('co-body');
