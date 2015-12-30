@@ -1,0 +1,89 @@
+{% extends "views/base.html" %}
+
+{% block title %}Conviertete en un charlista{% endblock %}
+
+{% block content %}
+<div class="uk-grid uk-grid-width-1-2 uk-container-center">
+  <div>
+    <form class="uk-form" method="post">
+        <h2>Datos Personales</h2>
+        <div class="uk-form-row">
+          <input class="uk-form-width-large" type="text" {% if talk.full_name %}value="{{ talk.full_name }}"{% endif %} placeholder="Nombre Completo" name="full_name" required>
+        </div>
+        <div class="uk-form-row">
+          <input class="uk-form-width-large" type="email" {% if talk.email %} value="{{ talk.email }}" {% endif %} placeholder="Correo Electronico" name="email" required>
+        </div>
+        <h2>Charla</h2>
+        <div class="uk-form-row">
+          <input class="uk-form-width-large" type="text" {% if talk.title %} value="{{ talk.title }}" {% endif %} placeholder="Titulo de la charla" name="title" required>
+        </div>
+        <div class="uk-form-row">
+          <textarea class="uk-form-width-large" type="text" {% if talk.description %} value="{{ talk.description }}" {% endif %} placeholder="Description de la Charla" name="description" required></textarea>
+        </div>
+        <div class="uk-form-row">
+        </div>
+        <div class="uk-form-row">
+          <h3 class="uk-form-label">Usergroups en los que aplica la charla</h3>
+          {% for usergroup in usergroups %}
+
+            </i><div class="uk-form-row">
+              <input id="1" type="checkbox" name="usergroups" value="{{ usergroup.name }}" {% if usergroup in talk.usergroups %}checked{% endif %}><label for="1">Python</label>
+            </div>
+
+          {% endfor %}
+          <div class="uk-form-row">
+            <input id="1" type="checkbox" name="usergroups" value="python"><label for="1">Python</label>
+          </div>
+          <div class="uk-form-row">
+            <input id="2" type="checkbox" name="usergroups" value="javascript"><label for="2">Javascript</label>
+          </div>
+          <div class="uk-form-row">
+            <input id="3" type="checkbox" name="usergroups" value="ruby"><label for="3">Ruby</label>
+          </div>
+          <div class="uk-form-row">
+            <input id="4" type="checkbox" name="usergroups" value="mobile"><label for="4">Mobile</label>
+          </div>
+          <div class="uk-form-row">
+            <input id="5" type="checkbox" name="usergroups" value="agnostico"><label for="5">Agnostico</label>
+          </div>
+      </div>
+      <div class="uk-form-row">
+        <button class="uk-button uk-button-primary" type="submit">Aplicar</button>
+      </div>
+    </form>
+  </div>
+
+  <div>
+    <h1>Algunas razones para ser un Charlista</h1>
+    <ul class="uk-list uk-list-space">
+      <li>
+        <div>
+          <h3>Razon para ser speaker</h3>
+          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
+        </div>
+      </li>
+      <li>
+        <div>
+          <h3>Razon para ser speaker</h3>
+          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
+        </div>
+      </li>
+      <li>
+        <div>
+          <h3>Razon para ser speaker</h3>
+          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
+        </div>
+      </li>
+      <li>
+        <div>
+          <h3>Razon para ser speaker</h3>
+          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+{% endblock %}
