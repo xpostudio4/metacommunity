@@ -2,14 +2,20 @@
 <html>
   <head>
     <title>MetaCommunity | {% block title %}{% endblock %}</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.24.3/css/uikit.min.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.24.3/js/uikit.min.js"></script>
-    {% block extra_css %}{% endblock %}
+    <link rel="stylesheet" href="assets/css/uikit.min.css" />
+    <script src="assets/js/uikit.min.js"></script>
+    {% block extra_css %}
+    
+    {% endblock %}
   </head>
   <body>
-    {% block content %}{% endblock %}
+    {% block content %}
 
-    {% block footer %}{% endblock %}
+    {% endblock %}
+
+    {% block footer %}
+
+    {% endblock %}
   </body>
 
 </html>
