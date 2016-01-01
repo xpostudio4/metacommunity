@@ -253,3 +253,51 @@ footer {
 			}
 		}
 }
+
+////////////////////////////////
+		//Events//
+////////////////////////////////
+
+.events-header {
+	padding: 70px 0px;
+	background: url('../img/events.jpg') no-repeat 0px -200px;
+	background-size: cover;
+	h1 {
+		text-shadow: 0px 1px 1px #666;
+		color: $white;
+		font-size: 50px;
+	}
+}
+
+////////////////////////////////
+		//Speakers//
+////////////////////////////////
+
+.speakers {
+	padding: 50px 0px;
+	form {
+		input[type="checkbox"] {
+			margin-right: 10px;
+		}
+	}
+	.speakers-reasons {
+		h3 {
+			font-size: 20px;
+		}
+		i {
+			font-size: 130px;
+		}
+	}
+
+}
+
+.speakers-header {
+	padding: 70px 0px;
+	background: url('../img/events.jpg') no-repeat 0px -200px;
+	background-size: cover;
+	h1 {
+		text-shadow: 0px 1px 1px #666;
+		color: $white;
+		font-size: 50px;
+	}
+}

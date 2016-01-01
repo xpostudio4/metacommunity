@@ -33,7 +33,7 @@ function *about_us(){
 }
 
 function *events(){
-  this.body = "Events";
+  yield  this.render('events', {});
 }
 
 function *donations(){
