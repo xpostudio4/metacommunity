@@ -25,7 +25,7 @@ app.use(views('views', {
 }));
 
 function *home(){
-  yield this.render('base', {});
+  yield this.render('index', {});
 }
 
 function *about_us(){
