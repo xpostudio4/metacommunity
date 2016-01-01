@@ -1,15 +1,139 @@
 <!DOCTYPE HTML>
 <html>
   <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MetaCommunity | {% block title %}{% endblock %}</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="./css/uikit.min.css" />
-    <script src="./js/uikit.min.js"></script>
-    {% block extra_css %}{% endblock %}
+    <link rel="stylesheet" href="./css/main.css" />
+
+    {% block extra_css %}
+    {% endblock %}
+
   </head>
   <body>
-    {% block content %}{% endblock %}
 
-    {% block footer %}{% endblock %}
+    <nav class="uk-navbar">
+        <div class="uk-container uk-container-center">
+          <a href="" class="uk-navbar-brand">< META /></a>
+          <div class="uk-navbar-flip">
+              <ul class="uk-navbar-nav">
+                  <li><a href="/">Inicio</a></li>
+                  <li><a href="/">Nosotros</a></li>
+                  <li><a href="/">Eventos</a></li>
+                  <li><a href="/">Donaciones</a></li>
+                  <li><a href="/">Charlistas</a></li>
+                  <li><a href="/">Contacto</a></li>
+              </ul>
+          </div>
+        </div>
+    </nav>
+
+    {% block content %}
+
+    {% endblock %}
+
+    {% block footer %}
+
+    <div class="footer-cta">
+      <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+          <div class="uk-width-medium-1-2 uk-push-1-2 uk-width-small-1-1">
+            <h2>¿Quieres involucrarte? Intégrate</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum culpa impedit consequuntur tempore dolor facere asperiores possimus aut,.</p>
+            <a href="" class="uk-button btn-blue">Conviertete en Voluntario</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-sponsors">
+      <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+          <div class="uk-width-small-1-1">
+            <h1 class="uk-text-center">Patrocinadores</h1>
+          </div>
+          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
+            <a href=""><img src="img/sponsor-megsoft.png" alt=""></a>
+          </div>
+          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
+            <a href=""><img src="img/sponsor-coworking.png" alt=""></a>
+          </div>
+          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
+            <a href=""><img src="img/sponsor-pixel.png" alt=""></a>
+          </div>
+          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
+            <a href=""><img src="img/sponsor-codetiger.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="uk-container uk-container-center">
+          <div class="uk-grid">
+            <div class="uk-width-small-1-2 uk-width-medium-1-4">
+              <h3>META</h3>
+                <div class="footer-linklist">
+                  <ul>
+                    <li><a href="">Nosotros</a></li>
+                    <li><a href="">Transparencia</a></li>
+                    <li><a href="">Blog</a></li>
+                    <li><a href="">Patrocinadores</a></li>
+                  </ul>
+                </div>
+            </div>
+
+          <div class="uk-width-small-1-2 uk-width-medium-1-4">
+            <h3>Comunidades</h3>
+              <div class="footer-linklist">
+                <ul>
+                  <li><a href="">Integrate</a></li>
+                  <li><a href="">Dona a la comunidad</a></li>
+                  <li><a href="">Se un charlista</a></li>
+                  <li><a href="">Crear comunidad</a></li>
+                </ul>
+              </div>
+          </div>
+          <div class="uk-width-small-1-2 uk-width-medium-1-4">
+            <h3>Eventos</h3>
+              <div class="footer-linklist">
+                <ul>
+                  <li><a href="">Ultimos eventos</a></li>
+                  <li><a href="">Proximos eventos</a></li>
+                </ul>
+              </div>
+          </div>
+          <div class="uk-width-small-1-2 uk-width-medium-1-4">
+              <div class="footer-newsletter">
+                <h3>Inscribete en el newsletter</h3>
+                <form action="" class="uk-form">
+                  <div class="uk-form-row">
+                    <input type="text" placeholder="Nombre" class="uk-width-1-1">
+                  </div>
+                  <div class="uk-form-row">
+                      <input type="text" placeholder="Apellido" class="uk-width-1-1">
+                  </div>
+                  <div class="uk-form-row">
+                      <input type="email" placeholder="Email" class="uk-width-1-1">
+                  </div>
+                  <div class="uk-form-row">
+                     <button class="uk-button btn-blue">Subscribirme</button>
+                  </div>
+                </form>
+              </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </footer>
+
+    {% endblock %}
+
+    <script src="./js/uikit.min.js"></script>
   </body>
 
 </html>
