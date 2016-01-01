@@ -1,13 +1,19 @@
 {
   "name": "meta.do",
   "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
   "version": "0.0.1",
   "description": "Meta community site web application",
   "dependencies": {
     "co-body": "^4.0.0",
     "co-monk": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.6",
     "kerberos": "0.0.17",
     "koa": "1.1.2",
+    "koa-livereload": "^0.1.23",
     "koa-static": "^1.5.2",
     "mongodb": "^1.4.39",
     "monk": "^1.0.1"

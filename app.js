@@ -20,6 +20,7 @@ var usergroups = wrap(db.get('usergroups'));
 // set static folders
 app.use(serve('./assets'));
 
+// Identify views files and template languages to use
 app.use(views('views', {
   map: { html: 'nunjucks'}
 }));
@@ -41,9 +42,10 @@ function *donations(){
 }
 
 function *speakers(){
+  var  context =  {'usergroups': yield usergroups.find({})};
 
   if(this.method === 'GET'){
-    yield this.render('speakers', {});
+    yield this.render('speakers', context);
   }
 
  if(this.method === 'POST'){
@@ -51,16 +53,19 @@ function *speakers(){
 
     if(talk.usergroups.length > 0){
 
-       talks.insert(talk, function(err){
+      talks.insert(talk, function(err){
         if(err) throw err;
       });
 
-    console.log(talk);
-    yield this.render('speakers', {talk: talk, success: 'yes'});
+      context.talk = talk;
+      context.success = true;
+      console.log(talk);
+      yield this.render('speakers', context);
+
     }
 
     if( talk.usergroups.lenght === 0){
-      yield this.render('speakers', {'talk': talk});
+      yield this.render('speakers', context);
     }
 
   }
@@ -102,6 +107,7 @@ app.use(routes.get('/donations', donations));
 app.use(routes.get('/speakers', speakers));
 app.use(routes.post('/speakers', speakers));
 app.use(routes.get('/usergroup', usergroup));
+
 
 app.listen(3000);
 

@@ -1,10 +1,13 @@
 {% extends "views/base.html" %}
 
-{% block title %}Conviertete en un charlista{% endblock %}
+{% block title %}Conviertete en un Charlista{% endblock %}
 
 {% block content %}
 <div class="uk-grid uk-grid-width-1-2 uk-container-center">
   <div>
+    {% if success %}
+        <h2>Tu solicitud ha sido enviada exitosamente!</h2>
+    {% else %}
     <form class="uk-form" method="post">
         <h2>Datos Personales</h2>
         <div class="uk-form-row">
@@ -18,39 +21,23 @@
           <input class="uk-form-width-large" type="text" {% if talk.title %} value="{{ talk.title }}" {% endif %} placeholder="Titulo de la charla" name="title" required>
         </div>
         <div class="uk-form-row">
-          <textarea class="uk-form-width-large" type="text" {% if talk.description %} value="{{ talk.description }}" {% endif %} placeholder="Description de la Charla" name="description" required></textarea>
-        </div>
-        <div class="uk-form-row">
+          <textarea class="uk-form-width-large" type="text" placeholder="Description de la Charla" name="description" required>{% if talk.description %}{{ talk.description }}{% endif %}</textarea>
         </div>
         <div class="uk-form-row">
           <h3 class="uk-form-label">Usergroups en los que aplica la charla</h3>
           {% for usergroup in usergroups %}
 
             </i><div class="uk-form-row">
-              <input id="1" type="checkbox" name="usergroups" value="{{ usergroup.name }}" {% if usergroup in talk.usergroups %}checked{% endif %}><label for="1">Python</label>
+              <input id="{{ usergroup.id }}" type="checkbox" name="usergroups" value="{{ usergroup.name }}" {% for group in talk.usergroups %}{% if group == usergroup.name %}checked{% endif %}{% endfor %}><label for="1">{{ usergroup.name }}</label>
             </div>
 
           {% endfor %}
-          <div class="uk-form-row">
-            <input id="1" type="checkbox" name="usergroups" value="python"><label for="1">Python</label>
-          </div>
-          <div class="uk-form-row">
-            <input id="2" type="checkbox" name="usergroups" value="javascript"><label for="2">Javascript</label>
-          </div>
-          <div class="uk-form-row">
-            <input id="3" type="checkbox" name="usergroups" value="ruby"><label for="3">Ruby</label>
-          </div>
-          <div class="uk-form-row">
-            <input id="4" type="checkbox" name="usergroups" value="mobile"><label for="4">Mobile</label>
-          </div>
-          <div class="uk-form-row">
-            <input id="5" type="checkbox" name="usergroups" value="agnostico"><label for="5">Agnostico</label>
-          </div>
       </div>
       <div class="uk-form-row">
         <button class="uk-button uk-button-primary" type="submit">Aplicar</button>
       </div>
     </form>
+    {% endif %}
   </div>
 
   <div>
