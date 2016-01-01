@@ -4,6 +4,7 @@ const routes = require('koa-route');
 const views = require('koa-views');
 const monk = require('monk');
 const wrap = require('co-monk');
+const serve = require('koa-static');
 
 // This library help us to interact with post requests
 const parse = require('co-body');
@@ -16,12 +17,15 @@ var talks = wrap(db.get('talk_applications'));
 var usergroups = wrap(db.get('usergroups'));
 
 
+// set static folders
+app.use(serve('./assets'));
+
 app.use(views('views', {
   map: { html: 'nunjucks'}
 }));
 
 function *home(){
-  yield this.render('index', {});
+  yield this.render('base', {});
 }
 
 function *about_us(){
@@ -100,4 +104,3 @@ app.use(routes.post('/speakers', speakers));
 app.use(routes.get('/usergroup', usergroup));
 
 app.listen(3000);
-

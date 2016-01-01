@@ -1,0 +1,73 @@
+
+////////////////////////////////
+		//Variables//
+////////////////////////////////
+
+// Colors
+
+$black: #000;
+$white: #fff;
+
+// Fonts
+
+$font-body: 'Lato', sans-serif;
+
+// Breakpoints
+
+$xs: 600px;
+$sm: 768px;
+$md: 960px;
+$lg: 1170px;
+
+////////////////////////////////
+		//General//
+////////////////////////////////
+
+html {
+	font: normal 16px $font-body;
+	line-height: 1.4;
+}
+
+body {
+	font-weight: normal;
+	color: $black;
+	line-height: 1.4;
+	font-family: $font-body;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $font-body;
+	line-height: 1.4;
+}
+
+////////////////////////////////
+		//Navbar//
+////////////////////////////////
+
+.uk-navbar-nav {
+	li {
+		a {
+			text-shadow: none;
+			display: block;
+		}
+
+		&:hover {
+			a {
+				background-color: transparent;
+				color: $white;
+			}
+		}
+	}
+
+}
+
+.uk-navbar-brand {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.uk-navbar {
+	background: $white;
+	padding: 20px 0px;
+}
