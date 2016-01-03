@@ -9,7 +9,9 @@ const serve = require('koa-static');
 // This library help us to interact with post requests
 const parse = require('co-body');
 
+// configuration variables
 const mongo_db_url = process.env.MONGOLAB_URI || 'localhost:27017/meta';
+const port = process.env.PORT || 3004;
 
 const db = monk(mongo_db_url);
 
@@ -120,5 +122,5 @@ app.use(routes.get('/usergroup', usergroup));
 app.use(pageNotFound);
 
 
-app.listen(3004);
+app.listen(port);
 
