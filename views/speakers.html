@@ -1,76 +1,105 @@
 {% extends "views/base.html" %}
 
-{% block title %}Conviertete en un Charlista{% endblock %}
+{% block title %}Conviertete en un charlista{% endblock %}
 
 {% block content %}
-<div class="uk-grid uk-grid-width-1-2 uk-container-center">
-  <div>
-    {% if success %}
-        <h2>Tu solicitud ha sido enviada exitosamente!</h2>
-    {% else %}
-    <form class="uk-form" method="post">
-        <h2>Datos Personales</h2>
-        <div class="uk-form-row">
-          <input class="uk-form-width-large" type="text" {% if talk.full_name %}value="{{ talk.full_name }}"{% endif %} placeholder="Nombre Completo" name="full_name" required>
-        </div>
-        <div class="uk-form-row">
-          <input class="uk-form-width-large" type="email" {% if talk.email %} value="{{ talk.email }}" {% endif %} placeholder="Correo Electronico" name="email" required>
-        </div>
-        <h2>Charla</h2>
-        <div class="uk-form-row">
-          <input class="uk-form-width-large" type="text" {% if talk.title %} value="{{ talk.title }}" {% endif %} placeholder="Titulo de la charla" name="title" required>
-        </div>
-        <div class="uk-form-row">
-          <textarea class="uk-form-width-large" type="text" placeholder="Description de la Charla" name="description" required>{% if talk.description %}{{ talk.description }}{% endif %}</textarea>
-        </div>
-        <div class="uk-form-row">
-          <h3 class="uk-form-label">Usergroups en los que aplica la charla</h3>
-          {% for usergroup in usergroups %}
 
-            </i><div class="uk-form-row">
-              <input id="{{ usergroup.id }}" type="checkbox" name="usergroups" value="{{ usergroup.name }}" {% for group in talk.usergroups %}{% if group == usergroup.name %}checked{% endif %}{% endfor %}><label for="1">{{ usergroup.name }}</label>
-            </div>
-
-          {% endfor %}
+<div class="speakers-header">
+  <div class="uk-container uk-container-center">
+    <div class="uk-grid">
+      <div class="uk-width-medium-1-1 uk-text-center">
+        <h1>Conviertete en Charlista</h1>
       </div>
-      <div class="uk-form-row">
-        <button class="uk-button uk-button-primary" type="submit">Aplicar</button>
-      </div>
-    </form>
-    {% endif %}
-  </div>
-
-  <div>
-    <h1>Algunas razones para ser un Charlista</h1>
-    <ul class="uk-list uk-list-space">
-      <li>
-        <div>
-          <h3>Razon para ser speaker</h3>
-          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
-        </div>
-      </li>
-      <li>
-        <div>
-          <h3>Razon para ser speaker</h3>
-          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
-        </div>
-      </li>
-      <li>
-        <div>
-          <h3>Razon para ser speaker</h3>
-          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
-        </div>
-      </li>
-      <li>
-        <div>
-          <h3>Razon para ser speaker</h3>
-          <p>orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
-        </div>
-      </li>
-    </ul>
+    </div>
   </div>
 </div>
 
+<div class="speakers">
+  <div class="uk-container uk-container-center">
+    <div class="uk-grid">
+      <div class="uk-width-medium-1-2">
+        <form class="uk-form" method="post">
+          {% if talk %}
+            <div class="uk-alert uk-alert-danger">
+              Por favor completa este formulario correctamente.
+            </div>
+          {% endif %}
+            <h2>Datos Personales</h2>
+            <div class="uk-form-row">
+              <input class="uk-form-width-large" type="text" {% if talk.full_name %}value="{{ talk.full_name }}"{% endif %} placeholder="Nombre Completo" name="full_name" required>
+            </div>
+            <div class="uk-form-row">
+              <input class="uk-form-width-large" type="email" {% if talk.email %} value="{{ talk.email }}" {% endif %} placeholder="Correo Electronico" name="email" required>
+            </div>
+            <h2>Charla</h2>
+            <div class="uk-form-row">
+              <input class="uk-form-width-large" type="text" {% if talk.title %} value="{{ talk.title }}" {% endif %} placeholder="Titulo de la charla" name="title" required>
+            </div>
+            <div class="uk-form-row">
+              <textarea class="uk-form-width-large" type="text" placeholder="Description de la Charla" name="description" required rows="5">{% if talk.description %}{{ talk.description }}{% endif %}</textarea>
+            </div>
+            <div class="uk-form-row">
+            </div>
+            <div class="uk-form-row">
+              <h3 class="uk-form-label">Usergroups en los que aplica la charla</h3>
+              {% for usergroup in usergroups %}
 
+                </i><div class="uk-form-row">
+                  <input id="{{ usergroup.id }}" type="checkbox" name="usergroups" value="{{ usergroup.name }}" {% if talk %}{% if usergroup.name in talk.usergroups %}checked{% endif %}{%endif %} ><label for="1">{{ usergroup.name }}</label>
+                </div>
+
+              {% endfor %}
+          </div>
+          <div class="uk-form-row">
+            <button class="uk-button btn-blue" type="submit">Aplicar</button>
+          </div>
+        </form>
+
+        </div>
+
+      <div class="uk-width-medium-1-2">
+        <h2>Razones para convertirte en Charlista</h2>
+        <div class="speakers-reasons">
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-female"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>Mayor participacion femenina</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-child"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>Empodera a la nueva generacion</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-globe"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>El futuro de las naciones</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-book"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>Es la nueva educación</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% endblock %}

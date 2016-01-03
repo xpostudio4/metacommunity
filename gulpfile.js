@@ -9,6 +9,7 @@ var gulp = require('gulp'),
     del = require('del');
     plumber = require('gulp-plumber');
     browserSync = require('browser-sync');
+    nodemon = require('gulp-nodemon');
 
 
 // Styles
@@ -27,9 +28,7 @@ gulp.task('styles', function() {
 // Static server
 gulp.task('browser-sync', function() {
     browserSync.init(["assets/css/*.css", "assets/js/*.js", '*views/*.html'], {
-        proxy: {
-            target: "localhost:3000"
-        }
+        proxy:  "localhost:3004"
     });
 });
 
@@ -37,8 +36,18 @@ gulp.task('browser-sync', function() {
 gulp.task('clean', function(cb) {
     del(['css'], cb)
 });
+
+// Reload server when html js, css or scss files change
+gulp.task('nodemon', function(){
+  nodemon({
+    script: 'app.js',
+    ext: 'js html scss css'
+  }).on('restart');
+});
+
+
 // Default task
-gulp.task('default', ['clean', 'browser-sync'], function() {
+gulp.task('default', ['clean', 'browser-sync', 'nodemon'], function() {
     gulp.start('styles');
 });
 
