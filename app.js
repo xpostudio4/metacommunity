@@ -9,7 +9,9 @@ const serve = require('koa-static');
 // This library help us to interact with post requests
 const parse = require('co-body');
 
-const db = monk('localhost:27017/meta');
+const mongo_db_url = process.env.MONGOLAB_URI || 'localhost:27017/meta';
+
+const db = monk(mongo_db_url);
 
 // Database tables objects
 var users = wrap(db.get('users'));
