@@ -30,15 +30,16 @@ function *home(){
 }
 
 function *about_us(){
-  this.body = "About Us";
+
+  yield this.render( 'about_us', {});
 }
 
 function *events(){
-  this.body = "Events";
+  yield this.render( 'events', {});
 }
 
 function *donations(){
-  this.body = "Donations";
+  yield this.render( 'donations', {});
 }
 
 function *speakers(){
@@ -100,6 +101,13 @@ function *users(){
 
 }
 
+function *pageNotFound(){
+  if( this.status === 404){
+    yield this.render('404');
+  }
+}
+
+
 app.use(routes.get('/', home));
 app.use(routes.get('/about', about_us));
 app.use(routes.get('/events', events));
@@ -107,6 +115,7 @@ app.use(routes.get('/donations', donations));
 app.use(routes.get('/speakers', speakers));
 app.use(routes.post('/speakers', speakers));
 app.use(routes.get('/usergroup', usergroup));
+app.use(pageNotFound);
 
 
 app.listen(3004);
