@@ -1,32 +1,19 @@
 const koa = require('koa');
-const app = new koa();
+const app = module.exports =  new koa();
 const routes = require('koa-route');
 const views = require('koa-views');
-const monk = require('monk');
-const wrap = require('co-monk');
 const serve = require('koa-static');
-
+const config = require('./config');
+const db = require('./db');
 // This library help us to interact with post requests
 const parse = require('co-body');
-
-// configuration variables
-const mongo_db_url = process.env.MONGOLAB_URI || 'localhost:27017/meta';
-const port = process.env.PORT || 3004;
-
-const db = monk(mongo_db_url);
-
-// Database tables objects
-var users = wrap(db.get('users'));
-var talks = wrap(db.get('talk_applications'));
-var usergroups = wrap(db.get('usergroups'));
-
 
 // set static folders
 app.use(serve('./assets'));
 
 // Identify views files and template languages to use
 app.use(views('views', {
-  map: { html: 'nunjucks'}
+  map: config.templates
 }));
 
 function *home(){
@@ -47,7 +34,7 @@ function *donations(){
 }
 
 function *speakers(){
-  var  context =  {'usergroups': yield usergroups.find({})};
+  var  context =  {'usergroups': yield db.usergroups.find({})};
 
   if(this.method === 'GET'){
     yield this.render('speakers', context);
@@ -78,7 +65,7 @@ function *speakers(){
 }
 
 function *usergroup(){
-  usergroups.insert({
+  db.usergroups.insert({
     name: "Python Dominicana",
     url: "https://www.facebook.com/groups/pythondo/",
     website: "www.python.com.do",
@@ -94,7 +81,7 @@ function *usergroup(){
 
 function *users(){
 
-   users.insert({
+   db.users.insert({
     first_name: 'Vivian',
     last_name: 'Guillen',
     email: 'vivian@codetiger.co',
@@ -122,5 +109,5 @@ app.use(routes.get('/usergroup', usergroup));
 app.use(pageNotFound);
 
 
-app.listen(port);
+app.listen(config.port);
 

@@ -1,2 +1,74 @@
 {% extends "views/base.html" %}
+{% block extra_css %}
+  <script src="https://donorbox.org/widget.js" type="text/javascript"></script>
+{% endblock %}
+
+
+{% block content %}
+
+<div class="speakers-header">
+  <div class="uk-container uk-container-center">
+    <div class="uk-grid">
+      <div class="uk-width-medium-1-1 uk-text-center">
+        <h1>Dona Ahora</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="speakers">
+  <div class="uk-container uk-container-center">
+    <div class="uk-grid">
+      <div class="uk-width-medium-1-2">
+        <h2>Razones para convertirte en Charlista</h2>
+        <div class="speakers-reasons">
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-female"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>Mayor participacion femenina</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-child"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>Empodera a la nueva generacion</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-globe"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>El futuro de las naciones</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+          <div class="uk-grid">
+            <div class="uk-width-medium-1-4">
+              <i class="uk-icon-book"></i>
+            </div>
+            <div class="uk-width-medium-3-4">
+              <h3>Es la nueva educación</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis inventore aperiam nesciunt, repellat temporibus.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="uk-width-medium-1-2">
+        <iframe src="https://donorbox.org/embed/meta-community" height="685px" width="100%" style=",ax-width:500px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}
 
