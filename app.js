@@ -22,15 +22,19 @@ function *home(){
 
 function *about_us(){
 
-  yield this.render( 'about_us', {});
+  yield this.render('about_us', {});
 }
 
-function *events(){
-  yield this.render( 'events', {});
+function *contact(){
+  yield this.render('contact', {});
 }
 
 function *donations(){
-  yield this.render( 'donations', {});
+  yield this.render('donations', {});
+}
+
+function *events(){
+  yield this.render('events', {});
 }
 
 function *speakers(){
@@ -65,14 +69,15 @@ function *speakers(){
 }
 
 function *usergroup(){
-  db.usergroups.insert({
+ var group =  new db.usergroups({
     name: "Python Dominicana",
-    url: "https://www.facebook.com/groups/pythondo/",
+    facebook_url: "https://www.facebook.com/groups/pythondo/",
     website: "www.python.com.do",
     logo: "https://scontent-mia1-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/10624973_10204014303853300_9205003069849326284_n.jpg?oh=7bcdfcda40ccb89341d73ebfe9bcdbb6&oe=570E52D0",
-    date_created: new Date("2013-09-25T19:00:00.001Z"),
+    created: new Date("2013-09-25T19:00:00.001Z"),
     description: "Python Dominicana is an amazing place, is the place where Programmers, engineers an all kind of people interested in the Python Computer Language get together to talk, learn and share about all the stuff that can be done with it, from web applications to robots, from distributed systems to desktop apps.",
-  }, function(err){
+  });
+  group.save(function(err){
        if(err) throw err
   });
 
@@ -101,8 +106,9 @@ function *pageNotFound(){
 
 app.use(routes.get('/', home));
 app.use(routes.get('/about', about_us));
-app.use(routes.get('/events', events));
+app.use(routes.get('/contact', contact));
 app.use(routes.get('/donations', donations));
+app.use(routes.get('/events', events));
 app.use(routes.get('/speakers', speakers));
 app.use(routes.post('/speakers', speakers));
 app.use(routes.get('/usergroup', usergroup));
