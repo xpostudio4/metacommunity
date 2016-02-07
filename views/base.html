@@ -8,6 +8,8 @@
 
     <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="./css/uikit.min.css" />
+    <link rel="stylesheet" href="./css/animate.css" />
+    <link rel="stylesheet" href="./css/morphext.css" />
     <link rel="stylesheet" href="./css/main.css" />
 
     {% block extra_css %}
@@ -149,7 +151,19 @@
 
     {% endblock %}
 
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <script src="./js/uikit.min.js"></script>
+    <script src="./js/morphext.min.js"></script>
+
+    <script >
+      $("#js-rotating").Morphext({
+          animation: "flipInX",
+          separator: ",",
+          speed: 2000,
+          complete: function () {
+          }
+      });
+    </script>
   </body>
 
 </html>
