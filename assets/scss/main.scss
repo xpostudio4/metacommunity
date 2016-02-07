@@ -177,13 +177,14 @@ footer {
 		position: absolute;
 		top: 50%;
 		transform: translateY(-50%);
-		span {
-			text-decoration: underline;
-		}
 		@media (max-width: $sm) {
 			font-size: 30px;
 		}
 	}
+}
+
+h1 > span {
+	border-bottom: 3px solid #fff;
 }
 
 .why {

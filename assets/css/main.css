@@ -107,11 +107,12 @@ footer {
     top: 50%;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%); }
-    .hero h1 span {
-      text-decoration: underline; }
     @media (max-width: 769px) {
       .hero h1 {
         font-size: 30px; } }
+
+h1 > span {
+  border-bottom: 3px solid #fff; }
 
 .why {
   padding: 50px 0px; }
