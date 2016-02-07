@@ -183,8 +183,90 @@ footer {
 	}
 }
 
-h1 > span {
-	border-bottom: 3px solid #fff;
+// Animation Style
+
+.hero {
+	.content {
+	  font-size:36px;
+	  line-height:40px;
+	  color:$white;
+	  position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+
+	.visible {
+	  float:left;
+	  font-weight:600;
+	  overflow:hidden;
+	  height:40px;
+		width: 150%;
+		@media (max-width: $sm) {
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	p {
+	  display:inline;
+	  float:left;
+	  margin:0;
+		font-size: 40px;
+		margin-right: 20px;
+	}
+
+	ul {
+	  margin-top:0;
+	  padding-left:110px;
+	  text-align:left;
+	  list-style:none;
+	  animation:6s linear 0s normal none infinite change;
+	  -webkit-animation:6s linear 0s normal none infinite change;
+	  -moz-animation:6s linear 0s normal none infinite change;
+	  -o-animation:6s linear 0s normal none infinite change;
+		@media (max-width: 770px) {
+			display: none;
+		}
+	}
+
+	ul li {
+	  line-height:40px;
+	  margin:0;
+	}
+
+	#js-rotating {
+		display: none;
+		span {
+			border-bottom: 3px solid $white;
+		}
+		@media (max-width: 768px) {
+			display: inline-block;
+		}
+	}
+
+
+	@-webkit-keyframes change {
+	  0%   {margin-top:0;}
+	  15%  {margin-top:0;}
+	  25%  {margin-top:-40px;}
+	  40%  {margin-top:-40px;}
+	  50%  {margin-top:-80px;}
+	  65%  {margin-top:-80px;}
+	  75%  {margin-top:-40px;}
+	  85%  {margin-top:-40px;}
+	  100% {margin-top:0;}
+	}
+	@keyframes change {
+	  0%   {margin-top:0;}
+	  15%  {margin-top:0;}
+	  25%  {margin-top:-40px;}
+	  40%  {margin-top:-40px;}
+	  50%  {margin-top:-80px;}
+	  65%  {margin-top:-80px;}
+	  75%  {margin-top:-40px;}
+	  85%  {margin-top:-40px;}
+	  100% {margin-top:0;}
+	}
 }
 
 .why {
