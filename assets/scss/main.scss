@@ -167,21 +167,21 @@ footer {
 
 .hero {
 	background: url('../img/hero.jpg') no-repeat;
-	padding: 200px 0px 300px;
 	background-size: cover;
-	height: 100%;
-
-	@media (max-width: $xs) {
-		padding: 100px 0px;
-	}
+	height: 100vh;
 
 	h1 {
 		color: $white;
 		text-shadow: 0px 1px 1px #666;
-		font-size: 50px;
-		margin-left: 20px;
+		font-size: 45px;
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
 		span {
 			text-decoration: underline;
+		}
+		@media (max-width: $sm) {
+			font-size: 30px;
 		}
 	}
 }

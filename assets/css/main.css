@@ -97,19 +97,21 @@ footer {
 
 .hero {
   background: url("../img/hero.jpg") no-repeat;
-  padding: 200px 0px 300px;
   background-size: cover;
-  height: 100%; }
-  @media (max-width: 600px) {
-    .hero {
-      padding: 100px 0px; } }
+  height: 100vh; }
   .hero h1 {
     color: #fff;
     text-shadow: 0px 1px 1px #666;
-    font-size: 50px;
-    margin-left: 20px; }
+    font-size: 45px;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
     .hero h1 span {
       text-decoration: underline; }
+    @media (max-width: 769px) {
+      .hero h1 {
+        font-size: 30px; } }
 
 .why {
   padding: 50px 0px; }
