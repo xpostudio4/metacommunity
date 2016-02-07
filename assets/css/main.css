@@ -105,7 +105,8 @@ footer {
   .hero h1 {
     color: #fff;
     text-shadow: 0px 1px 1px #666;
-    font-size: 50px; }
+    font-size: 50px;
+    margin-left: 20px; }
     .hero h1 span {
       text-decoration: underline; }
 
