@@ -1,8 +1,8 @@
-// validate emails with details in
-// http://stackoverflow.com/questions/18022365/mongoose-validate-email-syntax
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
+const schema = mongoose.Schema;
+const validator = require('validator');
 
-var UserSchema = new mongoose.Schema({
+var UserSchema = new schema({
   first_name: {
     type: String,
     required: true
@@ -12,11 +12,16 @@ var UserSchema = new mongoose.Schema({
     required: true
   },
   email: {
-    type: String
+    type: String,
+    validate: [validator.isEmail],
   },
   // If the user is admin he should have a place where to select which communities
   // he/she belongs to
   admin: {
+    type: Boolean,
+    default: false
+  },
+  superadmin: {
     type: Boolean,
     default: false
   },
@@ -26,6 +31,4 @@ var UserSchema = new mongoose.Schema({
   }
 });
 
-mongoose.model("User", UserSchema);
-
-
+module.exports = mongoose.model("User", UserSchema);
