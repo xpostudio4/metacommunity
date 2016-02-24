@@ -1,8 +1,3 @@
 # Meta Community Site
 
-The purpose of this application is to work as the central management
-tool for the Dominican Republic Usergroup communities in order to reach
-more people and better administrate our resources and sponsorships
-options.
-
-
+This is the code for the homepage of Meta Community, a community of Dominican Software Development Communities and Usergroups which aims to help each usergroup to reach more people, improve their resource management and channel sponsorship efforts.
