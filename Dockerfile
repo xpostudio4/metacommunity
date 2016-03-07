@@ -19,6 +19,9 @@ RUN npm i -s
 # Install `gulp` globally (and silently).
 RUN npm i -gs gulp
 
+# Install `migrate` globally (and silently).
+RUN npm i -gs migrate
+
 # Expose container's 3004 port to host.
 EXPOSE 3004
 

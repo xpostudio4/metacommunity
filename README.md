@@ -24,15 +24,20 @@ Or, if you prefer using containers:
 
 ## Getting it running
 
-Once the repo is cloned in your machine, make sure to install the npm packages by running:
+Once the repo is cloned in your machine, make sure to install the npm and gulp-cli packages by running:
 ```
 npm install
+npm install -g gulp
 ```
 After that run the mongodb server with the default port settings in another terminal window by typing:
 ```
 mongod
 ```
-Finally run gulp and the webpage will open on [localhost:3000](localhost:3000) if the page stays blank after a while just close the browser tab and open the page again.
+Then, in order to populate the database do:
+```sh
+$ gulp migrate
+```
+Finally run `gulp` and the webpage will open on [localhost:3000](localhost:3000) if the page stays blank after a while just close the browser tab and open the page again.
 
 ### Running with Docker
 
@@ -45,10 +50,10 @@ $ docker build -t meta .
 
 # Create & start containers
 $ docker run --name meta_db -d -P mongo:2.6
-$ docker run --name meta_app --link meta_db --env MONGOLAB_URI='mongodb://meta_db:${META_DB_PORT_27017_TCPi_PORT}' -p 3004:3004 -t meta
+$ docker run --name meta_app --link meta_db --env MONGOLAB_URI='mongodb://meta_db:${META_DB_PORT_27017_TCP_PORT}' -p 3004:3004 -t meta gulp migrate && npm start
 ```
 
-Hate writing commands by hand? `docker-compose` instructions are comming soon. 
+Hate writing commands by hand? `docker-compose` instructions are comming soon.
 
 ## Issues
 
