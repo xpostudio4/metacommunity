@@ -18,7 +18,11 @@ Before starting you will need to:
 
 3. Install and update [npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
 
-# Getting it running
+Or, if you prefer using containers:
+
+1. Install [Docker >=1.10.2](https://docker.com)
+
+## Getting it running
 
 Once the repo is cloned in your machine, make sure to install the npm packages by running:
 ```
@@ -30,10 +34,26 @@ mongod
 ```
 Finally run gulp and the webpage will open on [localhost:3000](localhost:3000) if the page stays blank after a while just close the browser tab and open the page again.
 
-# Issues
+### Running with Docker
+
+From the repository directory, run:
+
+```sh
+# Download & build images
+$ docker pull mongo:2.6
+$ docker build -t meta .
+
+# Create & start containers
+$ docker run --name meta_db -d -P mongo:2.6
+$ docker run --name meta_app --link meta_db --env MONGOLAB_URI='mongodb://meta_db:${META_DB_PORT_27017_TCPi_PORT}' -p 3004:3004 -t meta
+```
+
+Hate writing commands by hand? `docker-compose` instructions are comming soon. 
+
+## Issues
 
 If you see something wrong or something you simply don't like, make sure to submit [an issue](https://github.com/xpostudio4/metacommunity/issues/).
 
-# PR's and code reviews
+## PR's and code reviews
 
 After submitting a PR at least two other people have to go through, review your code and call it ok before it being accepted. Take feedbacks with love and remember that we all want to make the best thing ever, so it's never personal when people point out the fact that what you did is not ok.
