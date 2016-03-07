@@ -16,56 +16,45 @@ app.use(views('views', {
   map: config.templates
 }));
 
-function *home(){
+function *renderHome(){
   yield this.render('index', {});
 }
 
-function *about_us(){
+function *renderAboutUs(){
 
   yield this.render('about_us', {});
 }
 
-function *contact(){
+function *renderContact(){
   yield this.render('contact', {});
 }
 
-function *donations(){
+function *renderDonations(){
   yield this.render('donations', {});
 }
 
-function *events(){
+function *renderEvents(){
   yield this.render('events', {});
 }
 
-function *speakers(){
-  var  context =  {'usergroups': yield db.usergroups.find({})};
+function *renderTalkSubmissionForm() {
+  const userGroups = yield db.usergroups.find();
+  const context = {usergroups: userGroups};
 
-  if(this.method === 'GET'){
-    yield this.render('speakers', context);
+  yield this.render('submit_talk', context);
+}
+
+function *submitTalk() {
+  // TODO: Only allow a set of specific fields.
+  const rawBody = yield parse(this);
+  const belongsToUserGroup = rawBody.usergroups && rawBody.usergroups.length;
+
+  // TODO: Render an error message if talk doesn't belong to an user group.
+  if (belongsToUserGroup) {
+    yield db.talks.create(rawBody);
   }
 
- if(this.method === 'POST'){
-    var talk = yield parse(this);
-
-    if(talk.usergroups.length > 0){
-
-      talks.insert(talk, function(err){
-        if(err) throw err;
-      });
-
-      context.talk = talk;
-      context.success = true;
-      console.log(talk);
-      yield this.render('speakers', context);
-
-    }
-
-    if( talk.usergroups.lenght === 0){
-      yield this.render('speakers', context);
-    }
-
-  }
-
+  return this.redirect('/speakers');
 }
 
 function *usergroup(){
@@ -104,16 +93,15 @@ function *pageNotFound(){
 }
 
 
-app.use(routes.get('/', home));
-app.use(routes.get('/about', about_us));
-app.use(routes.get('/contact', contact));
-app.use(routes.get('/donations', donations));
-app.use(routes.get('/events', events));
-app.use(routes.get('/speakers', speakers));
-app.use(routes.post('/speakers', speakers));
+app.use(routes.get('/', renderHome));
+app.use(routes.get('/about', renderAboutUs));
+app.use(routes.get('/contact', renderContact));
+app.use(routes.get('/donations', renderDonations));
+app.use(routes.get('/events', renderEvents));
+app.use(routes.get('/speakers', renderTalkSubmissionForm));
+app.use(routes.post('/speakers', submitTalk));
 app.use(routes.get('/usergroup', usergroup));
 app.use(pageNotFound);
 
 
 app.listen(config.port);
-
