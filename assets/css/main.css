@@ -198,11 +198,17 @@ footer {
 
 @media screen and (max-width: 768px) {
   .hero .rw-sentence {
-    font-size: 18px; } }
+    font-size: 18px; }
+  .hero .rw-words {
+    display: block;
+    margin: 0; } }
 
 @media screen and (max-width: 320px) {
   .hero .rw-sentence {
-    font-size: 9px; } }
+    font-size: 9px; }
+  .hero .rw-words {
+    display: block;
+    margin: 0; } }
 
 .why {
   padding: 50px 0px; }

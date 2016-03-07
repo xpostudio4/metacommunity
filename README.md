@@ -7,3 +7,33 @@ Feel free to open issues, participate in those, and offer to tackle any issue th
 The live site is located at http://metacommunity.herokuapp.com/ and is deployed once a week.
 
 Bear in mind that this is a community driven effort, and answers to your issues or pull requests may take some time to process.
+
+## Prerequisites
+
+Before starting you will need to:
+
+1. Install [node >= 5.2](https://nodejs.org/)
+
+2. Install [mongodb >= 3.0](https://docs.mongodb.org/manual/installation/)
+
+3. Install and update [npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
+
+# Getting it running
+
+Once the repo is cloned in your machine, make sure to install the npm packages by running:
+```
+npm install
+```
+After that run the mongodb server with the default port settings in another terminal window by typing:
+```
+mongod
+```
+Finally run gulp and the webpage will open on [localhost:3000](localhost:3000) if the page stays blank after a while just close the browser tab and open the page again.
+
+# Issues
+
+If you see something wrong or something you simply don't like, make sure to submit [an issue](https://github.com/xpostudio4/metacommunity/issues/).
+
+# PR's and code reviews
+
+After submitting a PR at least two other people have to go through, review your code and call it ok before it being accepted. Take feedbacks with love and remember that we all want to make the best thing ever, so it's never personal when people point out the fact that what you did is not ok.
