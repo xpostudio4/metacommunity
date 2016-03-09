@@ -1,16 +1,14 @@
-
 // Load plugins
-var gulp = require('gulp'),
-  sass = require('gulp-sass'),
-  autoprefixer = require('gulp-autoprefixer'),
-  minifycss = require('gulp-minify-css'),
-  rename = require('gulp-rename'),
-  notify = require('gulp-notify'),
-  del = require('del'),
-  plumber = require('gulp-plumber'),
-  browserSync = require('browser-sync'),
-  nodemon = require('gulp-nodemon');
-
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const autoprefixer = require('gulp-autoprefixer');
+const minifycss = require('gulp-minify-css');
+const rename = require('gulp-rename');
+const notify = require('gulp-notify');
+const del = require('del');
+const plumber = require('gulp-plumber');
+const browserSync = require('browser-sync');
+const nodemon = require('gulp-nodemon');
 
 // Styles
 gulp.task('styles', function() {
