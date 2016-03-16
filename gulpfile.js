@@ -99,7 +99,7 @@ gulp.task('migrate:down', shell.task([
 ]));
 
 // Default task
-gulp.task('default', ['clean', 'browser-sync', 'watch', 'nodemon'], function() {
+gulp.task('default', ['clean', 'browser-sync', 'copy-assets', 'watch', 'nodemon'], function() {
   gulp.start('build:scss');
 });
 
