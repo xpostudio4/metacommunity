@@ -9,6 +9,7 @@ const del = require('del');
 const plumber = require('gulp-plumber');
 const browserSync = require('browser-sync');
 const nodemon = require('gulp-nodemon');
+const shell = require('gulp-shell');
 
 // Styles
 gulp.task('styles', function() {
@@ -56,6 +57,13 @@ gulp.task('nodemon', function() {
   });
 });
 
+gulp.task('migrate', shell.task([
+  'migrate'
+]));
+
+gulp.task('migrate:down', shell.task([
+  'migrate down'
+]));
 
 // Default task
 gulp.task('default', ['clean', 'browser-sync', 'watch', 'nodemon'], function() {
