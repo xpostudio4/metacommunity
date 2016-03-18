@@ -58,29 +58,29 @@ Hate writing commands by hand? `docker-compose` instructions are comming soon.
 ## Gulp Tasks
 
 ### `gulp styles`
-> Transpila y optimiza estilos del proyecto.
+> Transpiles and optimizes project's styles.
 
-En adición, se le añade prefijos del navegador (`-ms-`, `-moz-`, `-webkit-`) a las propiedades CSS que lo necesiten.
+Additionally, it prefixes CSS properties with `vendor prefixes`.
 
-*Heads-up*: Está tarea notifica a `BrowserSync` de cambios.
+*Heads-up*: This task notifies `BrowserSync` of changes to files.
 
 ### `gulp browser-sync`
-> Habilita actualización automática del navegador cuando cambien archivos para el cliente.
+> Enables automatic browser refreshes on asset changes.
 
 ### `gulp nodemon`
-> Habilita re-inicio automático del servidor cuando cambien archivos del lado del servidor.
+> Enables automatic server restart on server-side file changes.
 
 ### `gulp migrate`
-> Aplica todas las migraciones creadas hasta ahora en secuencia.
+> Applies all migrations up until now.
 
 ### `gulp migrate:down`
-> Deshace todas las migraciones creadas hasta.
+> Un-dos all migrations down until to the first one.
 
 ### `gulp watch`
-> Escucha cambios hechos a archivos hechos y re-ejecuta ciertas tareas.
+> Listens for file changes and re-runs certain tasks.
 
 ### `gulp`
-> Alias para `browser-sync, watch, nodemon, styles`
+> Alias for `browser-sync, watch, nodemon, styles`
 
 ## Issues
 
