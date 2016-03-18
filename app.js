@@ -1,3 +1,5 @@
+const path = require('path');
+
 const koa = require('koa');
 const app = module.exports =  new koa();
 const routes = require('koa-route');
@@ -8,8 +10,10 @@ const db = require('./db');
 // This library help us to interact with post requests
 const parse = require('co-body');
 
+const TEMPORAL_DIR = path.join(process.cwd(), '.tmp');
+
 // set static folders
-app.use(serve('./assets'));
+app.use(serve(TEMPORAL_DIR));
 
 // Identify views files and template languages to use
 app.use(views('views', {
