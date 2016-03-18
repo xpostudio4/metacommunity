@@ -55,6 +55,33 @@ $ docker run --name meta_app --link meta_db --env MONGOLAB_URI='mongodb://meta_d
 
 Hate writing commands by hand? `docker-compose` instructions are comming soon.
 
+## Gulp Tasks
+
+### `gulp styles`
+> Transpila y optimiza estilos del proyecto.
+
+En adición, se le añade prefijos del navegador (`-ms-`, `-moz-`, `-webkit-`) a las propiedades CSS que lo necesiten.
+
+*Heads-up*: Está tarea notifica a `BrowserSync` de cambios.
+
+### `gulp browser-sync`
+> Habilita actualización automática del navegador cuando cambien archivos para el cliente.
+
+### `gulp nodemon`
+> Habilita re-inicio automático del servidor cuando cambien archivos del lado del servidor.
+
+### `gulp migrate`
+> Aplica todas las migraciones creadas hasta ahora en secuencia.
+
+### `gulp migrate:down`
+> Deshace todas las migraciones creadas hasta.
+
+### `gulp watch`
+> Escucha cambios hechos a archivos hechos y re-ejecuta ciertas tareas.
+
+### `gulp`
+> Alias para `browser-sync, watch, nodemon, styles`
+
 ## Issues
 
 If you see something wrong or something you simply don't like, make sure to submit [an issue](https://github.com/xpostudio4/metacommunity/issues/).
