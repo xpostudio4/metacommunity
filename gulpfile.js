@@ -40,6 +40,7 @@ gulp.task('browser-sync', function(done) {
 });
 
 // Clean
+// TODO: This task does nothing. Remove it.
 gulp.task('clean', function(cb) {
   del(['css'], cb);
 });
@@ -75,6 +76,6 @@ gulp.task('watch', function() {
 
   gulp.watch('assets/scss/*.scss', ['styles']);
 
+  // TODO: Remove this.
   gulp.watch('views/*.html');
-
 });
