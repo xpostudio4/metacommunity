@@ -57,7 +57,7 @@ Hate writing commands by hand? `docker-compose` instructions are comming soon.
 
 ## Gulp Tasks
 
-### `gulp styles`
+### `gulp build:scss`
 > Transpiles and optimizes project's styles.
 
 Additionally, it prefixes CSS properties with `vendor prefixes`.
@@ -80,7 +80,7 @@ Additionally, it prefixes CSS properties with `vendor prefixes`.
 > Listens for file changes and re-runs certain tasks.
 
 ### `gulp`
-> Alias for `browser-sync, watch, nodemon, styles`
+> Alias for `browser-sync, watch, nodemon, build:scss`
 
 ## Issues
 
