@@ -2,7 +2,8 @@
   "name": "meta.do",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "postinstall": "gulp build"
   },
   "version": "0.0.1",
   "description": "Meta community site web application",
