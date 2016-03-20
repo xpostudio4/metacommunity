@@ -1,1 +1,2 @@
+gulp styles
 npm start
