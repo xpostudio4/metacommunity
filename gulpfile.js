@@ -104,6 +104,8 @@ gulp.task('default', ['clean', 'browser-sync', 'copy-assets', 'watch', 'nodemon'
   gulp.start('build:scss');
 });
 
+gulp.task('build', ['copy-assets', 'build:scss']);
+
 // Watch
 gulp.task('watch', function() {
 
