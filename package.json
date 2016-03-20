@@ -2,6 +2,7 @@
   "name": "meta.do",
   "private": true,
   "scripts": {
+    "postinstall": "gulp build:scss"
     "start": "node app.js"
   },
   "version": "0.0.1",
