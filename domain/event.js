@@ -8,7 +8,7 @@ function createEvent(state) {
     get isDue() {
       const now = Date.now();
 
-      return state.date >= now;
+      return state.date <= now;
     },
     date: state.date,
     title: state.title,
