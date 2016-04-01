@@ -42,18 +42,13 @@ function *renderDonations(){
 }
 
 function *renderEvents(){
+  // TODO: Inject source dependency.
   const source = createFileSystemEventSource({
     path: path.join(TEMPORAL_DIR, 'events.json'),
     factory: createEvent
   });
 
-  const eventProvider = {
-    *getAll() {
-      return yield source.getAll();
-    }
-  };
-
-  const events = yield eventProvider.getAll();
+  const events = yield source.getAll();
   const isPending = (e) => !e.isDue;
   const filteredEvents = events.filter(isPending);
 
