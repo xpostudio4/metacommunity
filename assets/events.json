@@ -1,0 +1,1800 @@
+[
+  {
+    "id": 1016669001761303,
+    "link": "https://www.facebook.com/events/1016669001761303",
+    "date": 1459206000000,
+    "place": {
+      "name": "@Microsoft Dominicana's Office :)",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.47243358,
+        "longitude": -69.94113772
+      },
+      "id": "377453878987279"
+    },
+    "title": "JS Dominicana 025:  React for the Win: Getting started with React and ES2016",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xal1/v/t1.0-0/p180x540/12804864_10208280005493175_4695327449089230053_n.jpg?oh=552026f4f65c813bedbe345a97471280&oe=577AF7C3",
+    "description": "Has oido un mundo sobre React y lo poderoso que es, en esta charla te compartiremos todo lo que necesitas para empezar a usarla y las buenas practicas que el equipo de Rev.com ha aprendido luego de implementar React en su aplicación.\n\nEn esta charla Nazaret Ramirez nos estara hablando de las mejores practicas para trabajar con este tipo de aplicaciones.\n\nNazaret, es Software Developer en rev.com, donde trabaja en todo el stack de una interesante aplicación.\n\n\nEl evento es gratis y está pautado para el LUNES 28 de Marzo del 2016, a partir de las 7:00 PM en el espacio de Microsoft Dominicana en Blue Mall.\n\nUbicación en Google Maps: http://bit.ly/1T9IJ4i"
+  },
+  {
+    "id": 1723511631214393,
+    "link": "https://www.facebook.com/events/1723511631214393",
+    "date": 1452898800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 024:  API powered Javascript Applications",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfp1/t31.0-8/s720x720/12493504_10207628406883617_2518066974757205914_o.jpg",
+    "description": "Los microservicios y API's es la forma en la que consumiremos información en nuestras aplicaciones ahora que tenemos multiples dispositivos que consumen nuestra información.\n\nEn esta charla Efraín nos estara hablando de las mejores practicas para trabajar con este tipo de aplicaciones.\n\nEfrain Reyes, es Software Developer en rev.com, donde trabaja en todo el stack de una interesante aplicación.\n\nSi quieres saber como construir API's esta es tu charla.\n\nEl evento es gratis y está pautado para el VIERNES 15 de Enero del 2016, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 397735010399559,
+    "link": "https://www.facebook.com/events/397735010399559",
+    "date": 1430953200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 17: Asynchronous Javascript",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/t31.0-8/s720x720/11182716_10205629337507021_8245387558957053417_o.jpg",
+    "description": "En esta entrega de Javascript Dominicana, Enrique Alcántara nos estará hablando de uno de los elementos menos entendidos de Javascript: la asincronía. Cómo evitar el infame \"callback hell\". Qué significa el tan popularizado \"non-blocking I/O\". Qué ventajas me da tener código asincrónico. Promises y técnicas para manejar complex asynchronous flows.\n\nEl evento es gratis y está pautado para el MIÉRCOLES 6 de MAYO del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 1550426548578699,
+    "link": "https://www.facebook.com/events/1550426548578699",
+    "date": 1427497200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 16: Javascript 6 / ECMAScript 6",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1545985_10205594486196871_6617208410249321717_n.jpg?oh=51621431743d666f3fa643c54425de89&oe=5775CBFD",
+    "description": "Si quieres saber qué nuevas mejoras trae el próximo estándar de Javascript, ECMAScript 6, cómo te afecta como desarrollador y cómo empezar a usarlo de la mejor manera, René Olivo estará dando esta interesante charla para aquellos que quieren saber más de la nueva versión de Javascript.\n\nEl evento es gratis y está pautado para el VIERNES 27 de MARZO del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 1588060298095624,
+    "link": "https://www.facebook.com/events/1588060298095624",
+    "date": 1423609200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Javascript Dominicana: Client side Test Driven Development (TDD)",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/1653252_10205063795088814_4347154693541832740_n.jpg?oh=439fa949df1ad0ec653162fa83d445d8&oe=5779348E",
+    "description": "Si quieres saber cómo hacer testing automatizado al código de tus aplicaciones en el front end, y desarrollar tus aplicaciones client-side de forma que sean compatibles con pruebas automatizadas a medida que van siendo desarrolladas, no dejes de participar en nuestra charla de TDD impartida por Juan Sepulveda.\n\nEl evento está pautado para el MARTES 10 de FEBRERO de 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se toma la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS. Esta charla es patrocinada por Google."
+  },
+  {
+    "id": 608163759329007,
+    "link": "https://www.facebook.com/events/608163759329007",
+    "date": 1422486000000,
+    "place": {
+      "name": "Auditorio GC, INTEC, Santo Domingo"
+    },
+    "title": "Introducción a Meteor.js",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10906045_10153179115525579_3208950219376070718_n.jpg?oh=8f87c0ca0e6ed3a47b1ac53a28a70cce&oe=57884D78",
+    "description": "Ven y aprovecha nuestra charla introductoria a meteor.js, la plataforma revolucionaria basada en JavaScript que te permite desarrollar aplicaciones web y móvil en tiempo récord. \n\nLa charla será impartida en el Auditorio GC de la Universidad INTEC por Ronen Babayoff y su equipo de LaVaina.com, unas de las empresas mas avanzadas en la utilización de meteor.js, que han creado muchos proyectos open source populares para la comunidad de meteor.js.\n\nPara una introducción rápida de meteor.js, puedes tomar el tutorial en  https://www.meteor.com/install\n\nAgenda:\n\n7:00pm - Inicio del evento y networking.\n\n7:30pm - Introducción a Meteor. Presentación del tutorial y ejemplos de aplicaciones\n\n8:30pm - Descanso.\n\n8:45pm - Deploy fest. Oportunidad para que todos instalen Meteor y hacen un deploy de una aplicación de ejemplo. \n\n9:00pm - Q&A\n\n~9:30pm - Mas networking.\n\nPara mas información sobre Meteor en general Ronen Babayoff\nMobile: +1-809-889-4444"
+  },
+  {
+    "id": 746433582117490,
+    "link": "https://www.facebook.com/events/746433582117490",
+    "date": 1421190000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 14: Prototype Programming in Javascript",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-prn2/t31.0-8/s720x720/10864018_10204756578768598_7233078766979291980_o.jpg",
+    "description": "En esta entrega de Javascript Dominicana, con el charlista Rubens Mariuzzo veremos en detalle qué es Prototype Programming en JavaScript. \n\n - ¿Cómo se crean objetos si no existen clases?\n - ¿Qué es la propiedad “prototype”, qué es el “prototype link” y qué es el “prototype chain”?\n - ¿Propiedades de instancias vs propiedades “estáticas”?\n - ¿Qué sucede durante la reconciliación de una referencia?\n - ¿Cómo se aplica “herencia” en JavaScript?\n - ¿Qué precauciones debemos de tomar en cuenta al utilizar Prototype Programming en JavaScript?\n\nUna auténtica oportunidad para conocer uno de los aspectos más confusos y más mal interpretados de JavaScript: Prototype Programming.\n\nEl evento está pautado para el MARTES 13 de ENERO de 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 1582558511972695,
+    "link": "https://www.facebook.com/events/1582558511972695",
+    "date": 1415314800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 13 : Worldwide Meteor Day – Santo Domingo",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10710568_10152675223607525_162646319133445829_n.jpg?oh=253ab89e4f9485081adf1089e6182c43&oe=577D4A70",
+    "description": "Ven unete a Meteor Santo Domingo para el Dia mundial de Meteor (metorday.com)! La comunidad completa de Meteor está teniendo reuniones simultáneas en todo el mundo el 6 de Noviembre, abiertas a cualquier persona interesada en aprender más sobre la plataforma de Meteor. Tendrás la oportunidad de compartir con desarrolladores que han construido aplicaciones con Meteor aqui en Santo Domingo, probar el nuevo Meteor, ejemplos, tutoriales. Ademas tendremos una sesion de Q&A (preguntas y respuestas) via Hangout con un core developer de Meteor.js! Recuerda traer tu laptop para el deploy-fest y el networking. \n\nSi has desarrollado aplicaciones en Meteor anteriormente, nos encantaria presentarla durante el evento. Esto puede ser cualquier proyecto (grande o pequeño) no importa si es una aplicacion compleja o si es solo algo que hiciste en un fin de semana. Dejanos tu información en los comentarios si te interesa presentar algo que has desarrollado!\n  \nAgenda:\n\n7:00pm - Inicio del evento. Comida, bebidas y networking.\n\n7:30pm - Introduccion a Meteor. Presentación del nuevo tutorial y ejemplos de aplicaciones\n\n8:00pm - Deploy fest. Oportunidad para que todos instalen Meteor y deploy una aplicacion de ejemplo. \n\n8:30pm - Short break. Fotos, tweet it. :)\n\n8:40pm - Show & Tell. Haz hecho algo en Meteor anteriormente? Presenta que has hecho en Meteor. \n\n9:00pm - Q&A. Google Hangout en vivo con un core developer de Meteor.js!\n\n~9:30pm - Open coworking / networking."
+  },
+  {
+    "id": 1465352030402544,
+    "link": "https://www.facebook.com/events/1465352030402544",
+    "date": 1410906600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 12: Automatizando el Desarrollo Front-End con Grunt",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xft1/v/l/t1.0-9/s720x720/10511305_10154492492300276_7755526527230180729_n.jpg?oh=71e51411b56772e7367fc6da22c9b749&oe=578EA966",
+    "description": "En esta entrega de Javascript Dominicana, el charlista Rubens Mariuzzo nos mostrará como mejorar nuestro flujo de trabajo en el front-end de nuestras aplicaciones Web usando Grunt. Conoceremos Grunt, y aprenderemos a utilizarlo para automatizar tareas repetitivas, como minificación, ejecución de comandos, deployment, unit testing, entre otras, y así mejorar el desempeño de nuestras aplicaciones Web.\n\nEl evento está pautado para el MARTES 16 de Septiembre de 2014, a partir de las 6:30 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 702577729789716,
+    "link": "https://www.facebook.com/events/702577729789716",
+    "date": 1404253800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 11: Implementación y desarrollo de métodos de pago electrónicos",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/t31.0-8/s720x720/10428218_10203419765949113_5733138682298207168_o.jpg",
+    "description": "En esta entrega de Javascript Dominicana, veremos una vez más la charla que se dio el 14 de Junio en INTEC, cortesía del CEISS, de implementación y desarrollo de métodos de pago electrónicos. René Olivo estará mostrándonos cuáles son los requerimientos para poder empezar a usar estos métodos de pago, como aceptar pagos expresos, realizar confirmaciones de pagos, aceptar suscripciones y pagos recurrentes.\n\nAprenderemos a implementar métodos de pago para sistemas de comercio electrónico usando soluciones locales como Visanet y Cardnet, e internacionales como Paypal y Authorize.net. En su demostración René usará NodeJS y NeDB, que es una base de datos ligera que implementa el API de MongoDB.\n\nEl evento está pautado para el MARTES 1ro de JULIO de 2014, a partir de las 6:30 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 790601514297798,
+    "link": "https://www.facebook.com/events/790601514297798",
+    "date": 1400349600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 10: Node.js Workshop - The beginnings of a real world application",
+    "coverUrl": "https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-0/p180x540/882380_10203169780779640_8556772105228285928_o.jpg",
+    "description": "Pre-requisitos:\n- Una laptop\n- Preferiblemente Node.js ya instalado\n\nEn esta entrega de Javascript Dominicana, Francis Brito continuará con el taller interactivo de Node.js del evento pasado en Abril. Tomando los conceptos que se aprendieron en el workshop pasado, procederemos a crear una aplicación en Node.js tal como se vería en un ambiente real de producción, posiblemente con un toque de desarrollo en el front-end.\n\nEl evento está pautado para el SÁBADO 17 de Mayo de 2014, a partir de las 2:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 636560709744410,
+    "link": "https://www.facebook.com/events/636560709744410",
+    "date": 1397327400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 08: Node.js Workshop desde cero",
+    "coverUrl": "https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t31.0-0/p180x540/1781793_10202876024435915_698142220_o.jpg",
+    "description": "Pre-requisitos:\n- Una laptop\n- Preferiblemente Node.js ya instalado\n\nEn esta entrega de Javascript Dominicana, Francis Brito nos estará guiando en un taller interactivo de Node.js, donde los participantes serán encaminados a desarrollar un proyecto desde cero. Se mostrará el proyecto ya creado, y luego se enseñará cómo realizar ese proyecto, de forma que los participantes lo puedan desarrollar en sus laptops durante el transcurso del taller.\n\nEl evento está pautado para el SÁBADO 12 de Abril de 2014, a partir de las 2:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 248273698677463,
+    "link": "https://www.facebook.com/events/248273698677463",
+    "date": 1393972200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 08: Working in the Cloud with Google Apps Script",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/12451_10202710626261064_1236378434_n.jpg?oh=39de692d0c6e47f3d19ee98f71a2945d&oe=57967335",
+    "description": "En esta entrega de Javascript Dominicana, el charlista Leonardo Antonio Jimenez Soriano nos estará hablando de Google Apps Script, un lenguaje basado en JavaScript con el cual podemos crear aplicaciones para automatizar tareas en los productos que tiene Google en la nube, como Gmail y Google Docs.\n\nEl evento está pautado para el martes 4 de Marzo de 2014, de 6:30 PM a 9:30 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nNOTA: La entrada de la 27 de Febrero ya está habilitada. Ya no se tiene que entrar obligatoriamente por la parte trasera del edificio.\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 483602638416435,
+    "link": "https://www.facebook.com/events/483602638416435",
+    "date": 1391886000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "JS Dominicana 07: AngularJS Workshop",
+    "coverUrl": "",
+    "description": "En esta entrega de Javascript Dominicana, René Olivo nos estará guiando en un taller interactivo de AngularJS, donde los participantes estarán creando y trabajando sus propios proyectos utilizando AngularJS. Estaremos partiendo de la charla que se dio en Noviembre, pero no se necesita experiencia previa con Angular para participar.\n\nRecomendamos que los participantes del taller lleven sus propias laptops para crear los proyectos. Aquellos que no tengan la posibilidad de llevar laptop tienen la opción de hacer equipos con personas que sí tengan, para que todos puedan participar.\n\nEl evento está pautado para el SÁBADO 8 de Febrero de 2014, de 3:00 PM a 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nIMPORTANTE: La entrada de la 27 de Febrero está cerrada por motivos de remodelación. Tienen que utilizar la entrada trasera, tal y como indica este croquis: http://www.scribblemaps.com/maps/view/HwU5Q0VWAi/\n\nLa entrada es totalmente GRATIS.\n\n****UPDATE**** Varias personas me han preguntado qué es un Workshop. Aquí respondo:\n\nEn vez de tener una charla donde el charlista habla y el público solo escucha, los participantes llevarán sus laptops (los que no tengan harían pares con gente que tenga) y tirarán código. El charlista daría las instrucciones necesarias para configurar el entorno de desarrollo y comenzar a construir un proyecto con la herramienta que se estará trabajando (en este caso Angular). \n\nYa de ahí sería potestad del charlista decidir si va a hablar sobre algo adicional a lo que dijo en Noviembre, qué tipo de proyectos se trabajarían (el que quiera es bienvenido a inventarse su propio proyecto también), qué partes de la herramienta o el entorno enseñar en lo que la gente tira el código, e inclusive puede compartir uno o más proyectos para que los participantes les hagan fork y los extiendan (como por ejemplo el Pokedex que se inventó para la charla en noviembre). \n\nDe ahí la gente empieza a tirar código.\n\nEl charlista y aquellos participantes que conozcan Angular y deseen colaborar ayudarían a la gente que necesite una mano con el código, y si es una duda o un problema que puede servir para conocimiento general, se menciona al resto de los participantes para que tengan eso en cuenta."
+  },
+  {
+    "id": 181603122047410,
+    "link": "https://www.facebook.com/events/181603122047410",
+    "date": 1389133800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Javascript Dominicana 06: Cleaner and faster apps with RequireJS",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1517469_10202235577265136_2116020904_n.jpg?oh=8b9bc3f3d0f7db86455cd0a75d59ffe4&oe=57893BBB",
+    "description": "En esta entrega de Javascript Dominicana, el charlista René Olivo nos estará hablando de RequireJS, un framework que implementa el API AMD, utilizado para manejar dependencias entre módulos de manera asincrónica, que nos permite mejorar la calidad y la velocidad de nuestro código.\n\nLa actividad será el martes 7 de enero de 2014 a las 6:30 P.M., en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: https://maps.google.com/?q=18.452430,-69.960356\n\nLa entrada es gratis, y habrá comida y refrescos gratis.\n\n6:30 - 7:00 Llegada y Networking\n7:00 - 7:15 Inicio e Introducción\n7:15 - 8:30 Charla\n8:30 - 9:30 Preguntas y temas libres\n\nPD: Aprovechamos la ocasión para avisar que nuestro patrocinador LaVaina.com está buscando un Web Developer. Más detalles: https://www.facebook.com/groups/JavaScriptDominicana/permalink/223549981160173/"
+  },
+  {
+    "id": 198866703634574,
+    "link": "https://www.facebook.com/events/198866703634574",
+    "date": 1386714600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Javascript Dominicana 05: Meteor",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1477972_10202016886798011_233419007_n.jpg?oh=f61722308013a4a9d80bdae84f2ea3b2&oe=57851606",
+    "description": "En esta entrega de Javascript Dominicana, el charlista Juan Sepulveda nos estará hablando de Meteor, una plataforma de desarrollo de aplicaciones web que corre en Node.js y cubre tanto el frontend como el backend de la aplicación utilizando JavaScript. Sus creadores afirman que es un entorno ultra-simple que permite desarrollar aplicaciones web en tiempo récord, seas un desarrollador experto o principiante.\n\nLa actividad será el martes 10 de Diciembre de 2013 a las 6:30 P.M. en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: https://maps.google.com/?q=18.452430%2C-69.960356\n\nLa entrada es gratis, y habrá comida y refrescos gratis.\n\n6:30 - 7:00 Networking\n7:00 - 7:15 Introducción\n7:15 - 8:30 Charla\n8:30 - 9:30 Preguntas y temas libres"
+  },
+  {
+    "id": 483132288451579,
+    "link": "https://www.facebook.com/events/483132288451579",
+    "date": 1384295400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Javascript Dominicana 04: AngularJS",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/539177_10201855808091144_613035167_n.jpg?oh=f0cb906804aa3c4c6ef05747af84d0cd&oe=57822B95",
+    "description": "En esta entrega de Javascript Dominicana, el charlista René Olivo nos estará hablando de AngularJS, un framework MVC de JavaScript desarrollado por Google que permite construir aplicaciones front-end para la Web bien estructuradas, flexibles y mantenibles.\n\nLa actividad será el martes 12 de Noviembre de 2013 a las 6:30 P.M., en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: https://maps.google.com/?q=18.452430,-69.960356\n\nLa entrada es gratis, y habrá comida y refrescos gratis.\n\n6:30 - 7:00 Networking\n7:00 - 7:15 Introducción\n7:15 - 8:30 Charla\n8:30 - 9:30 Preguntas y temas libres"
+  },
+  {
+    "id": 209710942540338,
+    "link": "https://www.facebook.com/events/209710942540338",
+    "date": 1381876200000,
+    "place": {
+      "name": "INTEC, Santo Domingo",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.487724125203,
+        "longitude": -69.961650589533
+      },
+      "id": "224693200883744"
+    },
+    "title": "Javascript Dominicana 003: Node.js",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/1390611_10201732391365803_1463294267_n.jpg?oh=6b77e5104ddb24abef00850e3d40ed90&oe=577A3C12",
+    "description": "En esta ocasión en Javascript Dominicana trataremos Node.js, un increíble framework para crear aplicaciones de Javascript en el servidor y de manera asincrónica, con Eduardo Sorribas.\n\nLa actividad será el martes 15 de Octubre de 2013, en el aula FD-405, edificio Fernando Defilló, 4to piso, en INTEC.\n\nHabrá comida y refrescos gratis.\n\n6:30 - 7:00 Networking\n7:00 - 7:15 Introducción\n7:15 - 8:30 Charla\n8:30 - 9:30 Preguntas y temas libres\n\nMapa de Intec: http://i.imgur.com/vfTasCd.png"
+  },
+  {
+    "id": 582857275106150,
+    "link": "https://www.facebook.com/events/582857275106150",
+    "date": 1379457000000,
+    "title": "Javascript Dominicana 002: Introducción a Funciones",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1233607_10201224089178566_1250688197_n.jpg?oh=a724864ae610b22b758b5a16c3256146&oe=577CCF60",
+    "description": "En esta segunda entrega de Javascript Dominicana, Efraín Reyes estará presentando una introducción a las funciones en Javascript, su sintaxis, formas y usos.\n\nEsta charla está enfocada a estudiantes y a desarrolladores principiantes, pero hacemos una invitación abierta a desarrolladores de cualquier nivel que deseen participar y colaborar.\n\nLa actividad será el martes 17 de Septiembre de 2013, en el Salón de Videoconferencias de INTEC.\n\n6:30 - 7:15 Networking\n7:15 - 7:30 Introducción\n7:30 - 8:30 Charla\n8:30 - 9:30 Preguntas y temas libres\n\nMapa de Intec: http://i.imgur.com/vfTasCd.png\n\nEl salón de videoconferencias está en el Edificio Ramón de Picasso, en el 4to piso."
+  },
+  {
+    "id": 803540306366742,
+    "link": "https://www.facebook.com/events/803540306366742",
+    "date": 1429830000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Rails: The Quest to dumb Views and skinny Controllers.",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/s720x720/11102718_10153334665938706_966161708776846160_n.jpg?oh=6add79cb4bb0d121184d3076cc42a307&oe=5782AE70",
+    "description": "En esta cuarta iteración de Ruby.do, Viktor Ml. Kunhardt busca mostrar como, en aplicaciones de Ruby on Rails,  podemos sacar esos (hopefully) pequeños pedazos de lógica de nuestras vistas, reducir el tamaño y la complejidad de nuestros controllers usando diferentes sabores de decorators. Tambien en esta session, Viktor definira los presenter and exhibit objects de una manera simple y clara; y así evitar de una buena vez la confusión alrededor de estos conceptos.\n\nEsperando que sea de beneficio para los que están interesados en Ruby o los que quieran explorar buenas prácticas.\n\nEl evento está pautado para el JUEVES 23 de Abril del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS.﻿"
+  },
+  {
+    "id": 1615947571969567,
+    "link": "https://www.facebook.com/events/1615947571969567",
+    "date": 1426633200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Modularize yourself",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/s720x720/11037569_10153247295373706_6315505020989653724_n.jpg?oh=c80e4a9975c175f7933be1dcfaa07e5e&oe=578D3732",
+    "description": "En esta tercera iteración de Ruby.do, Marcos Mercedes estará dando una demostración sobre el uso de modules en Ruby, los cuales nos brindan una mano al momento de agregar comportamiento a nuestros objetos, ademas, nos guiará mientras hace que su código sea más legible con la ayuda de los mismos.\n\nEsperando que sea de beneficio para los que están interesados en Ruby o los que quieran explorar buenas prácticas.\n\nEl evento está pautado para el MARTES 17 de Marzo del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS.﻿"
+  },
+  {
+    "id": 602153363217674,
+    "link": "https://www.facebook.com/events/602153363217674",
+    "date": 1424300400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Rails: Good and Bad ideas",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/s720x720/10891744_10153168962733706_2506422292946256172_n.jpg?oh=41abc41f15dd0243852879a0055e7915&oe=57765D06",
+    "description": "En esta segunda iteración de Ruby.do, Rafael George intentará mostrar cómo podemos mejorar la estructura de nuestras aplicaciones en Ruby on Rails para facilitar el mantenimiento y a su vez otorgar adaptabilidad a futuros cambios. Rafael, demostrará la implementación de patrones utilizados en aplicaciones \"production-ready\" y como podemos adherirnos a los principios \"SOLID\".\n\nEsperando que sea de beneficio para los que están interesados en Ruby on Rails o los que quieran explorar buenas prácticas.\n\nEl evento está pautado para el MIÉRCOLES 18 de FEBRERO del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS.﻿"
+  },
+  {
+    "id": 942219675864046,
+    "link": "https://www.facebook.com/events/942219675864046",
+    "date": 1454713200000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Primer Hackers & Founders del año",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/12642892_1064678640244074_3934054643691322248_n.jpg?oh=ff20be2db82720ec7d3b98989de7d1d4&oe=57965673",
+    "description": "H/F es una comunidad global de emprendedores, diseñadores y desarrolladores de software, reunidos con el objetivo de conocer, conectar y contribuir mutuamente."
+  },
+  {
+    "id": 1722649674623436,
+    "link": "https://www.facebook.com/events/1722649674623436",
+    "date": 1449183600000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders ¡ fin de año!",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xla1/v/t1.0-9/s720x720/12311149_1028800910498514_2275741497702771752_n.jpg?oh=1c343401b7daef5e312b9e8e76004188&oe=579626C4",
+    "description": "H/F es una comunidad global de emprendedores, diseñadores y desarrolladores de software, reunidos con el objetivo de conocer, conectar y contribuir mutuamente. \n\nAcompañanos en nuestro último evento del año, con grandes sorpresas por parte de nuestros amigos de StartupWeekend Santo Domingo.\n\n¡Los esperamos!"
+  },
+  {
+    "id": 1510029495990435,
+    "link": "https://www.facebook.com/events/1510029495990435",
+    "date": 1446850800000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.4671739,
+        "longitude": -69.9431446
+      },
+      "id": "533139503444852"
+    },
+    "title": "Hackers & Founders 22",
+    "coverUrl": "",
+    "description": "Para quienes nunca han ido....\n\nH&F es una evento sin tema, sin horario y sin restricciones. Es un anti-evento si tal cosa existiera. La idea es que armes tu propia noche y vengas a conocer a gente emprendedora y tecnologica con el fin de conocer gente :) No hay un charlista o un tema determinado, no hay hora de llegada ni hora de partida la noche la armas tu y pasas un buen tiempo con gente como tu.\n\nPara los viejos...\nVolvemos a reunirnos, como es constumbre el primer viernes de cada mes. Repetimos en Cultura Cervecera, dandole las gracias por los descuentos en cervezas y la picadera que siempre nos brindan. Recuerda decirles que estamos con el grupo cuando abras tu cuenta para que aplique el descuento.\n\nPara todos ...\nRecuerden en los nametags se pone tu nombre y el tema del que quieres hablar, el objetivo de esto es romper el hielo :) Por otro lado inviten a todo el que quiera ir el objetivo es armar un grupo cada vez mayor.\n\nNos vemos alla:\n\nPS: René Olivo sube el arte :)"
+  },
+  {
+    "id": 1500661716915810,
+    "link": "https://www.facebook.com/events/1500661716915810",
+    "date": 1443826800000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.4671739,
+        "longitude": -69.9431446
+      },
+      "id": "533139503444852"
+    },
+    "title": "Hackers & Founders 21",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/11057740_10153750763208319_2077881181125342087_n.jpg?oh=7af69228c6148223ae476271074f0a7c&oe=578E8AE3",
+    "description": "Volvemos a cultura Cervecera ! \n\nPero a que volvemos? Si eres nuevo/nueva en el grupo. H&F es la comunidad informal mas grande de emprendedores y hackers del mundo, y lo que hacemos es reunirnos de vez en cuando a compartir experiencias. H&F es un anti-evento donde no hay charlista o alguna tema especifico ni siquiera una agenda. Arrancamos cuando llegamos y se acaba cuando se acabe (o cierren el bar :p) Asi que ya sabes si quieres conocer a gente interesante o reunirte con los que ya conoces nos vemos el proximo viernes!\n\nTenemos el precio de cortesia en cervezas de un 10-15%  y algunos platos de entradas de parte de nuestros amigos de Cultura Cervecera , cuando abras tu cuenta enseñales tu nametag y diles que andas con el grupo de H&F."
+  },
+  {
+    "id": 927551410634323,
+    "link": "https://www.facebook.com/events/927551410634323",
+    "date": 1438988400000,
+    "title": "Hackers & Founders 19",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtl1/v/t1.0-9/11705363_10153481046646718_281864937184591810_n.jpg?oh=282a786d4ee188a2c2a31a1ccc215744&oe=57828B0A",
+    "description": "Esta es nuestra reunión habitual, pero vamos a hacer un cambio de lugar para variar un poco. Nos veremos este viernes en Brazalia (Av. Sarazota #135), 7pm. Tendremos unas picaderas para los que lleguen temprano ;)\n\nPara los nuevos recuerden que nos reunimos una vez al mes para conocernos y hablar de código y emprendimiento. H&F es un espacio para que la gente se conozcan e intercambien ideas y negocios. \n\nLa dinámica es simple, llegas, te damos un sticker donde pones tu nombre y de que quieres hablar y hablas con la gente :)"
+  },
+  {
+    "id": 428283460689444,
+    "link": "https://www.facebook.com/events/428283460689444",
+    "date": 1436569200000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders 18",
+    "coverUrl": "",
+    "description": "Otro mes y otro viernes, nos vemos en Cultura a las 7! Como es de costumbre nuestros amigos de Cultura nos tienen una picadera cortesia de la casa y descuento del 10% en cervezas. Nos vemos por alla !\n\nPara los nuevos recuerden que nos reunimos una vez al mes para conocernos y hablar de codigo y emprendimiento. H&F es un espacio para que la gente se conozcan e intercambien ideas y negocios. \n\nLa dinamica es simple, llegas, te damos un sticker donde pones tu nombre y de que quieres hablar y hablas con la gente :)"
+  },
+  {
+    "id": 897696083623336,
+    "link": "https://www.facebook.com/events/897696083623336",
+    "date": 1434150000000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders 18 !",
+    "coverUrl": "",
+    "description": "Hola!\n\nComo es de costumbre nos reuniremos el viernes. La gente de cultura siguen tratandonos bien y tendremos entras de cortesía ademas de un 10% en nuestro consumo. \n\nPara los nuevos, recuerden que este grupo no es digital, la idea es conocernos y pasar un buen rato. Asi que nos reunimos una vez al mes en algun bar u otro sitio a compatir. Tienes que llevar a tu persona, pensar de que quieres hablar y una buena actitud. Asi que nos vemos el viernes en Cultura ! \n\nPS: Para todos lo que dicen \"que van tarde\" generalmente nos quedamos hasta que cierren so no lo digan sino solo lleguen tarde. \n\nAbul"
+  },
+  {
+    "id": 901083739933457,
+    "link": "https://www.facebook.com/events/901083739933457",
+    "date": 1431126000000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders 17",
+    "coverUrl": "",
+    "description": "Hola!\n\nComo es de costumbre nos reuniremos el viernes. La gente de cultura siguen tratandonos bien y tendremos entras de cortesía ademas de un 10% en nuestro consumo. \n\nPara los nuevos, recuerden que este grupo no es digital, la idea es conocernos y pasar un buen rato. Asi que nos reunimos una vez al mes en algun bar u otro sitio a compatir. Tienes que llevar a tu persona, pensar de que quieres hablar y una buena actitud. Asi que nos vemos el viernes en Cultura ! \n\nPS: Para todos lo que dicen \"que van tarde\" generalmente nos quedamos hasta que cierren so no lo digan sino solo lleguen tarde. \n\nAbul"
+  },
+  {
+    "id": 1549206462013086,
+    "link": "https://www.facebook.com/events/1549206462013086",
+    "date": 1428706800000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders 16 !",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/p720x720/11149341_10153201153631718_1007481475243976069_n.jpg?oh=a7a8a2e270798039a182c3238494e986&oe=5788E927",
+    "description": "Hola! Nuestra reunión de networking habitual se realizará en Cultura Cervecera . Contaremos con un 10% de descuento y entradas de bienvenidas.\n\nPara los nuevos H&F es un grupo sin tema, ni horario, ni estructura. Es un evento donde tú mismo haces tu noche. Ven conoce emprendedores, programadores, gente de negocios, y todo tipo de personas. Es una excelente forma de arrancar a conocer otras personas jóvenes y más importante que todo beberse una buena cerveza. Así que nos vemos allá !"
+  },
+  {
+    "id": 843815082330775,
+    "link": "https://www.facebook.com/events/843815082330775",
+    "date": 1426287600000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders 15",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/s720x720/10919001_10153117252021718_6150435506499723262_n.jpg?oh=2897a370fc264c0586adc63b44546330&oe=577AF5E4",
+    "description": "Hola equipo! Nuestra reunión de networking habitual se realizará en Cultura Cervecera. Contaremos con un 10% de descuento y entradas de bienvenidas.\n\nPara los nuevos H&F es un grupo sin tema, ni horario, ni estructura. Es un evento donde tú mismo haces tu noche. Ven conoce emprendedores, programadores, gente de negocios, y todo tipo de personas. Es una excelente forma de arrancar a conocer otras personas jóvenes y más importante que todo beberse una buena cerveza. Así que nos vemos allá !"
+  },
+  {
+    "id": 730281577078954,
+    "link": "https://www.facebook.com/events/730281577078954",
+    "date": 1423263600000,
+    "place": {
+      "name": "Cultura Cervecera",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466915269513,
+        "longitude": -69.942926325531,
+        "street": "Rafael Augusto Sánchez, #96B, Evaristo Morales, Santo Domingo."
+      },
+      "id": "528318007261783"
+    },
+    "title": "Hackers & Founders 14",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/s720x720/10931147_10153164230958319_6766750385171245254_n.jpg?oh=63bdb2896c64d64df4d0a22ae87b1cd9&oe=577BFD60",
+    "description": "Buenas ! \n\nArrancamos el año con el bar que todos pidieron, hemos hablado con al gente de Cultura Cervecera y nos van a reservar par de mesas asi que ya saben nos vemos alla el viernes :) \n\nPara los nuevos H&F es un grupo sin tema, ni horario, ni estructura. Es un evento donde tu mismo haces tu noche. Ven conoce emprendedores, programadores, gente de negocios, y todo tipo de gente. Es una excelente forma de arrancar a conocer personas y mas importante que todo beberse una buena cerveza. Asi que nos vemos alla ! \n\nPS: En Enero no hicimos evento porque en diciembre se hizo mucha fiesta :)"
+  },
+  {
+    "id": 1382710075355541,
+    "link": "https://www.facebook.com/events/1382710075355541",
+    "date": 1417820400000,
+    "place": {
+      "name": "Belgrado",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.450214524,
+        "longitude": -69.949500164,
+        "street": "Av. Sarasota #112",
+        "zip": "10111"
+      },
+      "id": "11041791607"
+    },
+    "title": "Hackers & Founders 13",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/10310597_10152881326351718_9102865906740054760_n.jpg?oh=e0ab0be77ac386ca508db3d2d8790966&oe=578AEBB0",
+    "description": "Ven a compartir con emprendedores relacionados al área de los negocios e informática. Cuéntanos sobre tus proyectos y disfruta junto a nosotros de unas cuantas cervezas. El tema de la noche lo pones tú.\n\nEl evento dice que es en Belgrado Café, pero realmente es el nuevo Bräu de la Sarasota. Es solo para que se sepan ubicar."
+  },
+  {
+    "id": 517456675058398,
+    "link": "https://www.facebook.com/events/517456675058398",
+    "date": 1415401200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Hackers & Founders 12",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xta1/t31.0-8/s720x720/10648275_10152826786686718_3873995855353604633_o.jpg",
+    "description": "Nuestra reunión habitual será junto a coworking.do quienes están de aniversario!\n\nVen a compartir con gente relacionada al área de los negocios e informática. Cuéntanos sobre tus proyectos y disfruta a nosotros de unas cervezas bien frías."
+  },
+  {
+    "id": 286610921535981,
+    "link": "https://www.facebook.com/events/286610921535981",
+    "date": 1411342200000,
+    "place": {
+      "name": "Cinnamon Cafe",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.477032555144,
+        "longitude": -69.9444438,
+        "street": "Churchill"
+      },
+      "id": "190118271023239"
+    },
+    "title": "H&F Lean Startup Machine after party",
+    "coverUrl": "",
+    "description": "Por que despues de un fin de semana de trabajo se necesita un trago, vamos a socializar con los 100 emprendedores que están en Lean Startup Machine Santo Domingo , asi que los esperamos para tomarnos unas cervezas y continuar el networking."
+  },
+  {
+    "id": 352252151591492,
+    "link": "https://www.facebook.com/events/352252151591492",
+    "date": 1409958000000,
+    "place": {
+      "name": "CamdenParlour"
+    },
+    "title": "Hackers & Founders 10 !",
+    "coverUrl": "",
+    "description": "Volvemos a Candem :) \n\nPara los nuevos, la idea de H&F es un evento sin tema. Ven, conoce gente, bebete par de cervezas y talvez encuentres a tu founder o a tu hacker :) \n\nNos vemos el primer viernes de cada mes como es de costumbre"
+  },
+  {
+    "id": 337550236401304,
+    "link": "https://www.facebook.com/events/337550236401304",
+    "date": 1406934000000,
+    "place": {
+      "name": "Candem",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.474587347217,
+        "longitude": -69.936024918061
+      },
+      "id": "255023861266773"
+    },
+    "title": "Hackers & Founders 09",
+    "coverUrl": "",
+    "description": "Volvemos a Candem ! \n\nY seguimos probando los viernes\n\nVen y conéctate con la tecnología, los startups y los geeks de Santo Domingo en este evento de networking.\n\nPasos:\n\n1. Ven (y trae a tus amigos, conocidos y familiares)\n2. Ponte tu etiqueta (y escribe de qué te interesaría conversar y claro tu nombre) \n3. Busca una cerveza (o lo que sea que desees beber)\n4. Y empieza hablar (CON LA GENTE QUE NO CONOCES, este es el punto del evento, conoce y sal de tu zona de confort =p)"
+  },
+  {
+    "id": 1497859247114784,
+    "link": "https://www.facebook.com/events/1497859247114784",
+    "date": 1404514800000,
+    "place": {
+      "name": "Pasteur 8",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.463784040498,
+        "longitude": -69.897580620099
+      },
+      "id": "175020799184099"
+    },
+    "title": "Hackers and Founders Santo Domingo 08",
+    "coverUrl": "",
+    "description": "En el ultimo evento varias personas sugirieron este lugar asi que vamos a intentarlo.\n\nPasteur 8 es un sitio interesante, hay cerveza y tragos baratos, billar y una caja de bateo. Si eso mismo, una caja de bateo.\n\nAdemas vamos a probar mover la actividad para los viernes ya que Josue Abreu, Hector Minaya y otros sugirieron que un viernes es un dia mas ameno para conocer otras personas y hablar de negocios futuros.\n\nPara los nuevos que llegaron hasta aca sin saber bien de que esto se trata H&F es una actividad sin tema ni charlista ni nada. Es simplemente para que los emprendedores, programadores y demas personas que estan lo suficientemente locos como para querer cambiar el mundo se conozcan. De ahi el noche es suya.\n\nNos vemos alla!"
+  },
+  {
+    "id": 244958295706529,
+    "link": "https://www.facebook.com/events/244958295706529",
+    "date": 1401746400000,
+    "place": {
+      "name": "Sebelen Bowling Center",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.46906,
+        "longitude": -69.93231,
+        "street": "Ave. Abraham Lincoln esq. Roberto Pastoriza"
+      },
+      "id": "124909680917041"
+    },
+    "title": "Hackers and Founders Santo Domingo 07",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/10373788_10152444890131718_5231304683422180774_n.jpg?oh=3e3c2eee5ad2201768139d6e77ab16fd&oe=577C1BC5",
+    "description": "El 7mo evento de Hackers and Founders @ Sebelen BowlingCenter. Ven y conoce jóvenes emprendedores, desarrolladores, inversionistas, geeks y aficionados como tú. Compartan ideas y tumben algunos pinos en un ambiente informal y relajado.\n\nEs obligatorio traer a tus amigos y regar la voz. La primera hora de boliches va por nosotros ;)"
+  },
+  {
+    "id": 241376599360855,
+    "link": "https://www.facebook.com/events/241376599360855",
+    "date": 1386021600000,
+    "place": {
+      "name": "Ye Olde Homero",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.477098897947,
+        "longitude": -69.944451136608
+      },
+      "id": "381926795186491"
+    },
+    "title": "Lunes 2 Dic : Hackers & Founders 003",
+    "coverUrl": "",
+    "description": "En vista que a la gente le ha gustado el sitio repetimos, para la proxima vamos a cambiar el venue.\n\nPara los nuevos, es un espacio para emprendedores y gente que quiere crear cosas. Nos reunimos una vez al mes; sin agenda, sin horario, simplemente a hablar, beber y planear. Nos vamos a reunir en un bar donde el sitio será nuestro, nuestra música, nuestros tragos, y nuestros temas. Y la noche dictara la agenda."
+  },
+  {
+    "id": 1401157590121214,
+    "link": "https://www.facebook.com/events/1401157590121214",
+    "date": 1383600600000,
+    "place": {
+      "name": "Ye Olde Homero",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.477098897947,
+        "longitude": -69.944451136608
+      },
+      "id": "381926795186491"
+    },
+    "title": "Hackers & Founders 02",
+    "coverUrl": "",
+    "description": "So que es H&F? \n\nPara los nuevos, es un espacio para emprendedores y gente que quiere crear cosas. Nos reunimos una vez al mes; sin agenda, sin horario, simplemente a hablar, beber y planear. Nos vamos a reunir en un bar donde el sitio será nuestro, nuestra música, nuestros tragos, y nuestros temas. Y la noche dictara la agenda.\n\nPara los viejos, se que la pasamos muy bien y vamos a repetirla. Se puede volver a hacer el Jammeo, ver el status de la gente que conocieron y por supuesto conocer a los nuevos. Ahh y vamos a tener el pitching couch que varios sugirieron.\n\nPara los que al final se quedaron. Vayan! estaremos toda la noche, mucha gente dijo: \"No fui porque ya eran las 9pm\" a esa hora era que se estaba poniendo bueno!\n\nEn general: \n\nTendremos un precio preferencial en tragos. Negociamos para que nos den Uno Negro y Uno Naranja. A 100 pesos cada uno.\nAsí mismo tendremos una picadera, del turco, quipes, empanadas, falafel, etc. Cortesía de H&F (hasta acabar existencia así que lleguen temprano)\n\nLunes 4Nov, desde las 5pm hasta que cierren.\nNos vemos alla, y rieguen la voz."
+  },
+  {
+    "id": 569153486574737,
+    "link": "https://www.facebook.com/events/569153486574737",
+    "date": 1457650800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Going deeper on Xamarin Forms with Custom Renderers",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtp1/t31.0-8/s720x720/12778694_10153254718261431_3124821941491198913_o.jpg",
+    "description": "This time Rendy Del Rosario (Xamarin Certified Developer) will be talking about creating custom renderers for your Xamarin.Forms applications by extending the Xamarin.Forms controls.\n\nCome and join us in this Meetup to learn how to customize the appearance and behaviors of the Xamarin.Forms UI controls on each platform.\n\n\n\nAs usual this talk is free of charge for everyone. \n\n\n\nSpeaker: Rendy Del Rosario\n\nTwitter: @rdelrosario"
+  },
+  {
+    "id": 165668263810325,
+    "link": "https://www.facebook.com/events/165668263810325",
+    "date": 1455318000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Data persistence in your Xamarin Mobile Apps with SQLite and SQLite.Net",
+    "coverUrl": "",
+    "description": "Alright; so we have already seen how to connect our Xamarin Apps with external resources like Web APIs and Azure Services. Now it is time to show you how to persist this data, so our Mobile Applications can have some functionality even when disconnected from the internet. \n\nFor this, we will be using the already well-known database SQLite and on top of this, we will be using SQLite.Net; a wonderful ORM created by Frank A. Krueger for interfacing with a SQLite db. \n\nMain topics:\n\n• What is SQLite\n\n• SQLite.Net: what it is and the different ways to install it in your projects\n\n• SQLite.Net configuration\n\n• Database and tables creation with SQLite.Net\n\n• SQLite.Net attributes\n\n• CRUD operations\n\n• Implementing the Repository Pattern on top of the SQLite.Net methods\n\n\n\nAs usual, this event is free of charge.\n\nHope to see you there.\n\n\n\nSpeaker: Andres Pineda"
+  },
+  {
+    "id": 639443832825741,
+    "link": "https://www.facebook.com/events/639443832825741",
+    "date": 1453244400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Xamarin and Azure Mobile Services",
+    "coverUrl": "",
+    "description": "In a prior talk, we demonstrated how to use WebAPI for the creation of a Restful Service and how to consume from our Xamarin App.\n\nThis time, we will be showing you how Azure Mobile Services makes creating a Backend/API a breeze.\n\nWe invite you to come even if you have not attended before. There is no prior knowledge required, and as always, this event is free to the public.\n\nSpeaker: Andres Pineda is a Senior Consultant at Megsoft Consulting, Inc and a Xamarin Certified developer. He is super hero at night, and during the day he employs his time developing cross-platform mobile apps with Xamarin for companies across various industries. You can catch him on twitter @ajpinedam\n\n\n\n\n============= Spanish =============\n\n\nEn nuestra charla anterior demostramos como usar WebAPI para la creación de un servicio restful y como consumir este mismo desde nuestra aplicación Xamarin.\n\nEsta vez, estaremos mostrando como Azure Mobile Services hace que crear un Backend/API parezca cosa de niños.\n\nLes invitamos a que vengan y nos acompañen aun no hayan asistido a alguna de las charlas anteriores ya que no se necesita experiencia previa. \n\nComo de costumbre este evento es libre de costo para el publico."
+  },
+  {
+    "id": 566260910193048,
+    "link": "https://www.facebook.com/events/566260910193048",
+    "date": 1450825200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Xamarin 4! Everything you need to Build Great Mobile Apps",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xal1/v/t1.0-9/12347981_977039822334971_6323977439263881932_n.jpg?oh=2ac3dfcd00b13804491e5c381bbd5622&oe=577F21EB",
+    "description": "Come celebrate Xamarin 4 with cake, pizza, and learning how to build, test, monitor, and accelerate native iOS and Android mobile app development in C#. Xamarin 4 was just announced including some amazing new features and enhancements including the all new Xamarin Mac Agent and Xamarin.Forms 2.0 for enterprise grade mobile development, the brand new Test Recorder, and free crash reporting with the General Availability of Xamarin Insights. This month we will take a look at all the new enhancements into iOS and Android Development in C# with Xamarin and all of the latest features that were just released. There will be something for everyone in this content packed meetup no matter if you are new or have been developing with Xamarin for some time.\n\nHere are just a few topics that we will cover:\n\nXamarin.Forms 2.0: Xamarin developers have taken advantage of a shared business logic backend for years, but with the introduction of Xamarin.Forms it accelerate their cross-platform development introducing a shared user interface library and full MVVM Framework. Xamarin.Forms 2.0 takes advantage of the latest iOS 9 and Android Marshmallow features including material design, introduces several new gestures such as pull-to-refresh, rotate, pinch, and panning, as well as significant performance enhancements.\n\nXamarin Test Cloud & the Test Recorder: Xamarin developers are able to take advantage of their free Test Cloud time to test their applications on over 2,000 iOS and Android devices. We will take a look at the Test Cloud and see how the brand new Test Recorder simplifies the creation of complex tests to get you testing faster.\n\nXamarin Insights: Now Generally available with completely free crash reporting for Xamarin developers giving you full native and managed crash reports and stack traces with just a single line of code! With a full cross-platform SDK you can easily report exceptions, track events, and gather additional information about the devices your app is running on.\n\nSo Much More: That is just the start! Xamarin 4 is packed full of even more features and enhancements that we will cover."
+  },
+  {
+    "id": 1678167085759660,
+    "link": "https://www.facebook.com/events/1678167085759660",
+    "date": 1447801200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "The Dark Side of the Force (Backend of a Mobile App)",
+    "coverUrl": "",
+    "description": "Our last Meetup was a success, but we don't want to stop there. Save the date for the next meetup.  This time, we will be showing you how to use Azure to create a Backend API for your Xamarin Android app.\n\nWe will show you how easy it is to: \n\n• Create a RestFull API using Visual Studio\n\n•  Deploy it to the Azure Cloud\n\n•  Consume the API from your Mobile App \n\nThe speakers this time will be Luis Ramirez and Andres Pineda.\n\nPlease help us support the group by registering as members and RSVP'ing to the meetup so we can get a more realistic headcount. Looking forward to seeing you there.\n\nAs always, these meetups are free of charge.  Bring your laptop just if you feel like coding."
+  },
+  {
+    "id": 496249850537291,
+    "link": "https://www.facebook.com/events/496249850537291",
+    "date": 1446246000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Building Android Apps with Xamarin",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12063335_408958229294034_7781825030181121251_n.jpg?oh=e2e74448b6e136047e91ad800e621be4&oe=57BFE29C",
+    "description": "This time we will be showing how to create an Android Application using Xamarin. We will see how easy a developer with previous experience in native Android development (Java/Android Studio) can use Xamarin/C# as its development environment."
+  },
+  {
+    "id": 702167209914291,
+    "link": "https://www.facebook.com/events/702167209914291",
+    "date": 1440543600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Hey you a Property has changed!!",
+    "coverUrl": "",
+    "description": "Come and learn with us how to bring the wonders of MVVM into the Android world. Using Xamarin we will talk about the most used frameworks and show you real world implementations. Stop worrying about manually updating the UI. Bind<yourself> to this event which will be hosted by Andres Pineda"
+  },
+  {
+    "id": 1618416685102993,
+    "link": "https://www.facebook.com/events/1618416685102993",
+    "date": 1438124400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Introduction to Xamarin Forms",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpa1/t31.0-8/s720x720/11722323_913115275394093_4538664635916640949_o.jpg",
+    "description": "ACTUALIZACIÓN: El Startup superstar de Memmo, David Tavárez estará entregando esta charla sobre cómo diseñar un App Cross-Platform utilizando Xamarin Forms. \n\nSe sugiere que los asistentes tengan un conocimiento básico de C#."
+  },
+  {
+    "id": 1392632677721886,
+    "link": "https://www.facebook.com/events/1392632677721886",
+    "date": 1427842800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Xamarin uncovered - The truth",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpt1/t31.0-8/s720x720/11062001_10152764850248161_2252283252332445378_o.jpg",
+    "description": "En esta entrega Andres Pineda nos estará hablando sobre el desarrollo mobile con Xamarin, ventajas, desventajas, comparaciones y el futuro de esta plataforma. \n\n- ¿Que es Xamarin?\n- ¿Porque Xamarin?\n- ¿Es efectivo el cross platform ?\n- ¿Tiene futuro desarollar en xamarin?\n\nDurante el evento estarán a la venta T-Shirts de Stackoverflow para los interesados.\n\nLos esperamos.  \n\nEl evento es gratis y está pautado para el MARTES 31 de MARZO del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 836392776400144,
+    "link": "https://www.facebook.com/events/836392776400144",
+    "date": 1421967600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Usando Joint Application Design (JAD) en el mundo Móvil",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtf1/t31.0-8/s720x720/10926324_10152640489438161_992098831136108718_o.jpg",
+    "description": "En esta entrega Claudio Sanchez nos estará hablando sobre Joint Application Design (JAD) en el mundo móvil.\n\nUpdate: Enlace de  LiveStream \nhttps://new.livestream.com/accounts/5075368/events/3750440\n\n- ¿Que es JAD?\n- ¿Que son sesiones de JAD?\n- Como Organizar el equipo. \n- Temas a tratar en las sesiones.\n-  Estructura de la técnica.\n\nDurante el evento se rifaran licencias por 30 días de pluralsight  y T-Shirts de stackoverflow, también al final del evento disfrutaremos de una picadera cortesía de Google. \n\nLos esperamos. \n\nEl evento está pautado para el JUEVES 22 de ENERO de 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nEl acceso al evento es totalmente GRATIS."
+  },
+  {
+    "id": 537067246415961,
+    "link": "https://www.facebook.com/events/537067246415961",
+    "date": 1405722600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Post Google I/O + Beers!!!",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfl1/t31.0-8/s720x720/10497424_10152626027540452_6140785500928600207_o.jpg",
+    "description": "Vamos a pasar un rato compartiendo(cervecitas) y conversando sobre lo que pasó durante el Google I/O con Noe Branagan y llevará algunas de las cosas que se vieron como el Android TV y el cardboard, evento sponsor by GDG Santo Domingo."
+  },
+  {
+    "id": 681547071893392,
+    "link": "https://www.facebook.com/events/681547071893392",
+    "date": 1402612200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Montate abordo del MonoTouchDialog Express",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/10394797_247744228748769_7236664812388185212_n.jpg?oh=71de023773e4af64d4d0625813572e62&oe=5773887B",
+    "description": "Ven y aprende como se pueden crear interfaces casi a la velocidad de la luz para iOS con Xamarin usando MonoTouchDialog. Esta charla será una demostración practica de como se usa MonoTouchDialog. 100% Código, NO SLIDES ALLOWED.\n\nVen y comete un rico Pica Pollo cortesía de Megsoft Consulting Inc.\n\nRegistrarse aquí: http://bit.ly/TA1BxC\nCUPO LIMITADO\n\nRequisitos: Conocimientos de C#. \nRecomendado: Leer este articulo para entender como se usan los UITableVIews http://axelhzf.com/ios-curso/tables.html"
+  },
+  {
+    "id": 231632963697513,
+    "link": "https://www.facebook.com/events/231632963697513",
+    "date": 1400126400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Introducción al desarrollo Mobile con Windows Phone 8",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/p720x720/10253791_10152109013873161_5520533038116577360_n.jpg?oh=3dac4cee49fe292ee175a99dfbe100bc&oe=5794B170",
+    "description": "En esta entrega de Mobile Developer Group contaremos con la presencia de Stanley Lara CTO & Software Operations Manager de Solvex y Julian Javier Tejera Frias Developer Evangelist de Microsoft, donde por la parte de Stanley estaremos viendo el desarrollo de la app y por la parte de Julian podremos ver la publicación de la app en windows store y las increíbles ventajas que este brinda a los desarrolladores.\n\nEl evento está pautado para el Jueves 15 de Mayo de 2014, a partir de las 6:30 PM, en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 ( primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear, y subir por el ascensor o por las escaleras al 3er piso.\n\nLa entrada es totalmente GRATIS.\n\nTambién estaremos rifando un t-shirt de stackoverflow y 2 licencias de pluralsight por un mes entre los asistentes."
+  },
+  {
+    "id": 375895822548692,
+    "link": "https://www.facebook.com/events/375895822548692",
+    "date": 1397169000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Creación de Web Services para Mobile Apps",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-frc1/v/t1.0-9/10154544_10202866479077287_949799059_n.jpg?oh=f52a0c1a169267e34686c8a43de70db8&oe=5784CC14",
+    "description": "En esta entrega de Mobile Developer Group contaremos con la presencia de Elminson De Oleo Baez, quien nos mostrará cómo crear desde cero nuestros propios servicios en Android utilizando Eclipse y Android Studio.\n\nEl evento está pautado para el Jueves 10 de Abril de 2014, a partir de las 6:30 PM, en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 ( primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear, y subir por el ascensor o por las escaleras al 3er piso.\n\nLa entrada es totalmente GRATIS.\n\nTambién estaremos rifando un t-shirt de stackoverflow entre los asistentes."
+  },
+  {
+    "id": 548635471874858,
+    "link": "https://www.facebook.com/events/548635471874858",
+    "date": 1381442400000,
+    "title": "Reunión 010: UI/UX for moblie apps",
+    "coverUrl": "",
+    "description": "Saludos! Este jueves estaremos compartiendo con Manuel Mercedes quien nos hablara de UI/UX for moblie apps.\n\nLugar: GC 205 (If you dont know where that is, call me 829-548-0044\n\nComo siempre procuremos llegar temprano para hacer el networking.\n\nLos esperamos!"
+  },
+  {
+    "id": 1381876542041491,
+    "link": "https://www.facebook.com/events/1381876542041491",
+    "date": 1377815400000,
+    "place": {
+      "name": "INTEC, Santo Domingo",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.487724125203,
+        "longitude": -69.961650589533
+      },
+      "id": "224693200883744"
+    },
+    "title": "Painless Blackberry Development: Tips from the real world",
+    "coverUrl": "",
+    "description": "http://mobiledevdo.azurewebsites.net/post/2013/08/26/painless-blackberry-development.aspx"
+  },
+  {
+    "id": 437595046336597,
+    "link": "https://www.facebook.com/events/437595046336597",
+    "date": 1370644200000,
+    "place": {
+      "name": "INTEC, FD 411"
+    },
+    "title": "3ra Reunión Intro a Windows Phone 8",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s720x720/600993_144859132370613_353771271_n.jpg?oh=ab62c2421ffe9097bbdf8af24f2e8ec5&oe=577D4F73",
+    "description": "Hangouts On Air\nhttps://plus.google.com/hangouts/_/2224415d5f888621546cc5cdd21b33075fecd9a3?authuser=0&hl=en\n\nhttp://mobiledevdo.azurewebsites.net/post/2013/06/05/Introduccion-al-desarrollo-de-aplicaciones-de-negocios-con-Windows-Phone-8.aspx"
+  },
+  {
+    "id": 501844846535809,
+    "link": "https://www.facebook.com/events/501844846535809",
+    "date": 1369434600000,
+    "place": {
+      "name": "Microsoft Dominicana"
+    },
+    "title": "Intro to Xamarin Android: A seasoned .NET Dev's first time",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/980977_139550639568129_793015598_o.jpg",
+    "description": "Introducción a desarrollo con Xamarin: Experiencias de un developer de .NET probando la plataforma por primera vez.\n\nMás detalles http://mobiledevdo.azurewebsites.net/post/2013/05/20/Intro-a-XamarinAndroid.aspx"
+  },
+  {
+    "id": 1707392889506800,
+    "link": "https://www.facebook.com/events/1707392889506800",
+    "date": 1450548000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Videoconferencia con Eduardo Mojica de SpilGames",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xta1/t31.0-8/s720x720/12241040_10156379399160294_5577494071131246073_o.jpg",
+    "description": "Este día tendremos una videoconferencia con Eduardo Mojica quién nos dará una perspectiva global de la industria.\n\nEduardo Mojica es un dominicano que vive en Holanda y Actualmente trabaja para la empresa SpilGames que publica juegos móviles y web. También es Artista y Diseñador de juegos."
+  },
+  {
+    "id": 800883480034324,
+    "link": "https://www.facebook.com/events/800883480034324",
+    "date": 1446505200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Premios y Evaluación Hackathon HUB",
+    "coverUrl": "https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-xft1/t31.0-0/p180x540/12194911_10156305594985294_4114256455066568508_o.jpg",
+    "description": "Temas:\n- Entrega de premio\n- Evaluación del hackathon\n- Próximos eventos con el apoyo de cámara tic y otros patrocinadores\n- Patrocinios de cursos\n- Información a revelar por Rosario Sang de Cámara Tic, nos tiene una buena noticia.\n\nTendremos como invitados a Rosario Sang de Cámara Tic, Sovieski Naut del MIC y Michael Jacobo de Cree Banreservas."
+  },
+  {
+    "id": 761717710604813,
+    "link": "https://www.facebook.com/events/761717710604813",
+    "date": 1444917600000,
+    "place": {
+      "name": "Puerto Sans Souci",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.47137094417,
+        "longitude": -69.876394682684,
+        "street": "Avenida España"
+      },
+      "id": "181380075249451"
+    },
+    "title": "Hackathon HUB (Gamejam)",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xft1/t31.0-8/s720x720/11170297_10156170887765294_5276853395672456356_o.jpg",
+    "description": "Un Game Jam es una reunión de desarrolladores de videojuegos con el propósito de crear uno o más juegos en un corto periodo de tiempo. Este evento busca incentivar la experimentación y la innovación en la industria del videojuego en República Dominicana y al mismo tiempo crear proyectos que ayuden a concientizar a la población sobre un problema que nos afecta.\n\nEl tema de este GameJam es Conservación del Agua, así que vayan preparando sus ideas.\n\nLos ganadores recibirán el premio de 150 Mil pesos y posibilidad de hasta 3 millones de pesos de capital semilla para completar su proyecto, además de otros premios.\n\nEste es un Gamejam especial donde los participantes pueden comenzar a trabajar los proyectos previo al evento, o tomar proyectos ya construidos y adaptarlos. Lo que se pretende es presentar a los inversionistas los juegos con la mejor terminación posible.\n\n¿Quienes pueden participar?\nProgramadores, Artistas, Game Designer, Músicos y Entusiastas.\n\n¿Cómo participo?\nSolo tienes que registrarte desde esta dirección http://hub.gamejam.com.do y el día del evento ir a la Expo HUB Camara Santo Domingo http://hubcamarasantodomingo.com/ con tu pc, donde podrás trabajar. Ese día se habilitará la opción de subir los juegos a itch.io/jam/hackathon-hub-gamejam para las votaciones.\n\nSe pueden inscribir llenando este formulario.\nhttps://docs.google.com/forms/d/1zjspuPlB84smfJPzPa4LTzREZZghsG3BJCJ1_UjTgys/viewform?c=0&w=1\n\nComparte este evento!"
+  },
+  {
+    "id": 133842573627423,
+    "link": "https://www.facebook.com/events/133842573627423",
+    "date": 1443895200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Emprendedores en una Industria Millonaria",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11988571_10156139801920294_8735179230666647256_n.jpg?oh=b5bca9ae02d85cb21421dfea14d386d7&oe=577C06BF",
+    "description": "En esta charla tendremos a Sovieski Naut del Ministerio de Industria y Comercio, quién nos estará hablando sobre el Desarrollo del Comportamiento Emprendedor enfocado en la industria del videojuego.\n\nEs importante tu participación en este evento ya que se va a hacer un diálogo entre el ministerio y los desarrolladores de videojuegos para conocer las necesidades de la comunidad y ayudar a resolverlos.\n\nAl final de la charla tendremos un pequeño brindis.\n\nLa charla es totalmente gratis."
+  },
+  {
+    "id": 1641930176093485,
+    "link": "https://www.facebook.com/events/1641930176093485",
+    "date": 1441476000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Como trabajar con un repositorio de control de versiones - GIT para desarrolladores de juegos",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11846566_10156041480815294_6865624816762861258_n.jpg?oh=75848793f3c31c839ee74f2a2d726a6c&oe=5783D5F4",
+    "description": "Los repositorios de control de versiones nos ayudan a:\n- Mantener un backup de tus archivos\n- Mantener un histórico de tus cambios\n- Trabajar en equipo\n\nEn esta charla veremos\n- Que es un repositorio de control de versiones\n- Para que sirve\n- Como crearlo\n- Como configurar unity para el version control\n- Como organizarlo\n- Como trabajar en equipo\n\nLa charla será presentada por Enmanuel Toribio y Marco Marmolejos\n\nPueden llevar sus computadoras. Los ejemplos se realizarán con la línea de comando GIT y el GUI Sourcetree. https://www.sourcetreeapp.com/"
+  },
+  {
+    "id": 869304559772516,
+    "link": "https://www.facebook.com/events/869304559772516",
+    "date": 1438452000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Desarrollo de un 2D Platformer en Unity",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/s720x720/11027505_10155993194795294_7805084946506721292_n.jpg?oh=2fe109cf6902e0c13e11f1c17b4f77b4&oe=577E1DDA",
+    "description": "Veremos como desarrollar un Platformer 2D y un Runner Infinito en Unity.\n\nLos charlistas son Marco Marmolejos y Fidel Soto quienes compartirán sus experiencias de como hacer este tipo de juegos."
+  },
+  {
+    "id": 872004602878374,
+    "link": "https://www.facebook.com/events/872004602878374",
+    "date": 1436637600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Cómo resolver un bug imposible y preview de cómo llegar al top new.",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xlt1/t31.0-8/s720x720/11401299_10155907393085294_410627179409228165_o.jpg",
+    "description": "Los temas para esta reunión son:\n- Miyuki Jump, cómo resolver un bug imposible.\n- Preview: Cómo llegar al top new en google play\n\nSólo tenemos 2 horas, recordemos ser puntuales."
+  },
+  {
+    "id": 1469852793313375,
+    "link": "https://www.facebook.com/events/1469852793313375",
+    "date": 1436198400000,
+    "place": {
+      "name": "https://goo.gl/SSXJe5"
+    },
+    "title": "BrickEvolution",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/11402986_793271264124825_8319518945995422631_n.jpg?oh=c04eae1159371d9bd9f2e52b9f7be388&oe=578B5572",
+    "description": "Te invito a probar mi nuevo juego para android, deja algunas estrellas y comparte con todos. Gracias!!!\n\nLink: https://goo.gl/SSXJe5"
+  },
+  {
+    "id": 295190787271836,
+    "link": "https://www.facebook.com/events/295190787271836",
+    "date": 1434218400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Unity UI",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s720x720/11390131_880250674659_8897844126322786554_n.jpg?oh=616ba9888a62f4c1fd66845d3cee015f&oe=5782C65B",
+    "description": "Interfaces de usuario en Unity 4.6+.\nUser interfaces in Unity 4.6+."
+  },
+  {
+    "id": 1098938320120202,
+    "link": "https://www.facebook.com/events/1098938320120202",
+    "date": 1432404000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Game Engine Architecture",
+    "coverUrl": "",
+    "description": "En esta charla Francis León nos hablará de como está estructurado un motor de videojuegos (game engine)."
+  },
+  {
+    "id": 476676222498747,
+    "link": "https://www.facebook.com/events/476676222498747",
+    "date": 1428775200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "2D Game Art for Programmers",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/s720x720/10455824_10155509883680294_806656825292945965_n.jpg?oh=0793e3dea5629a88b618b540d66807d6&oe=577FF6C6",
+    "description": "En esta charla revelaremos los misterios que los artistas nos tienen guardados a los programadores y algunos tips para que nuestros Logos, Iconos, Botones, Ambientes, Personajes y Animaciones se vean mejor.\n\nLa charla estará a cargo de Marco Marmolejos"
+  },
+  {
+    "id": 874669192585525,
+    "link": "https://www.facebook.com/events/874669192585525",
+    "date": 1426341600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Unity: Roll-a-ball",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/t31.0-8/s720x720/11001604_872314839482152_1911461836153741575_o.jpg",
+    "description": "Charla sobre cómo crear un videojuego simple (Roll-a-ball) con su menú en Unity 5 utilizando solo los recursos que el editor provee."
+  },
+  {
+    "id": 378734872303202,
+    "link": "https://www.facebook.com/events/378734872303202",
+    "date": 1417269600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Charla Unity2D",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-frc1/t31.0-8/s720x720/1795302_817082575005379_4882891689804993290_o.jpg",
+    "description": "Charla sobre introducción a Unity2D.\n\nVeremos como crear un juego 2D de plataforma en unity.\nLa charla será presentada por Marco Marmolejos\n\nSi eres de los que aprende haciendo y piensas llevar tu laptop, te recomiendo instalar Unity 4.6 (el que tiene el nuevo UI system) y descargar el Sample Assets del asset store.\nhttp://unity3d.com/unity/download\nhttps://www.assetstore.unity3d.com/en/#!/content/21064"
+  },
+  {
+    "id": 662390343857959,
+    "link": "https://www.facebook.com/events/662390343857959",
+    "date": 1407592800000,
+    "place": {
+      "name": "Intec",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.487788625609,
+        "longitude": -69.961941909645
+      },
+      "id": "105427689627655"
+    },
+    "title": "Evento CDDV - Mini GameJam",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xlf1/t31.0-8/s720x720/1531843_10154545189670294_6845121862682847703_o.jpg",
+    "description": "Próxima reunión de la CDDV en el Salón de Videoconferencia de INTEC.\n\n- Mini Game Jam\n- Cada sesión será de 2 horas\n- Este sábado se pondrá un tema para crear los juegos\n- Los juegos se deben publicar en alguna tienda de aplicaciones o en un portal de juegos web.\n- El juego que tenga mayor views/descargas gana\n- Deben llevar sus laptops\n- Los juegos se pueden hacer en grupo o individualmente.\n\nTips: \n- Cada grupo puede ir creando su framework desde ahora para trabajar más rápido (se pueden usar scripts ya hechos).\n- Tengan en cuenta los temas que se comenten para crear el framework ya que se escogerá uno de esos."
+  },
+  {
+    "id": 1423897204562544,
+    "link": "https://www.facebook.com/events/1423897204562544",
+    "date": 1404568800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "¿Como gano dinero con mi juego indie?",
+    "coverUrl": "https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-frc1/t31.0-0/p180x540/1907761_10154343283400294_8755110540445238450_o.jpg",
+    "description": "Charla presentada por Leonardo Jimenez sobre las diferentes alternativas para hacer dinero mediante los videojuegos."
+  },
+  {
+    "id": 1431812940387800,
+    "link": "https://www.facebook.com/events/1431812940387800",
+    "date": 1390658400000,
+    "title": "CDDV - Introducción a Game Maker",
+    "coverUrl": "",
+    "description": "Las reuniones de la CDDV tienen el propósito de crear un espacio donde los miembros pueden compartir, intercambiar ideas, y expandir sus conocimientos acerca del desarrollo de vídeojuegos.\n\nPara la próxima reunión tendremos:\n\n- Introducción a Game Maker a cargo de Gerald Durán\n- IGDA República Dominicana a cargo de Alvin Ogando\n\nSerá en el salón de videoconferencia de INTEC en el 4to piso arriba del UStore.\n\n*****Por favor traten de ser puntuales para aprovechar el tiempo. Estaremos empezando a las 10am.*****"
+  },
+  {
+    "id": 573146072766053,
+    "link": "https://www.facebook.com/events/573146072766053",
+    "date": 1389448800000,
+    "title": "CDDV - Programación Videojuegos en Unity3D",
+    "coverUrl": "https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xaf1/t31.0-0/p180x540/1548205_10153762947995294_360100903_o.jpg",
+    "description": "Las reuniones de la CDDV tienen el propósito de crear un espacio donde los miembros pueden compartir, intercambiar ideas, y expandir sus conocimientos acerca del desarrollo de vídeojuegos.\n\nPara la próxima reunión tendremos:\n\n- Programación de juegos en Unity3D a cargo de Fidel Soto\n- IGDA República Dominicana a cargo de Alvin Ogando\n\nSerá en el salón de videoconferencia de INTEC en el 4to piso arriba del UStore.\n\n*****Por favor traten de ser puntuales para aprovechar el tiempo. Estaremos empezando a las 10am.*****"
+  },
+  {
+    "id": 301537316644397,
+    "link": "https://www.facebook.com/events/301537316644397",
+    "date": 1368990000000,
+    "place": {
+      "name": "Acropolis",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.4881501478,
+        "longitude": -69.843348159
+      },
+      "id": "223799937646958"
+    },
+    "title": "Reunión CDDV - Comunidad Dominicana de Desarrolladores de Videojuegos",
+    "coverUrl": "https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-0/p180x540/197645_10152848983575294_1926797695_n.jpg?oh=a6368fb53e84ca777dbca675e21e7402&oe=578B26C3&__gda__=1468603250_1863a5e4dc09502f8ce19cb1cc4891db",
+    "description": "Nos estaremos reuniendo para conocernos, saber en que estamos y compartir experiencias.\n\nLa reunión será en el domingo 19 de mayo a las 3:00pm en el área de comida de acrópolis, frente al cine.\n\n¡Ah!, y lleven dinero para que serruchemos una pizza."
+  },
+  {
+    "id": 1780941648792140,
+    "link": "https://www.facebook.com/events/1780941648792140",
+    "date": 1459810800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "UX/UI Dominicana 003: Usability on mobile devices",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/s720x720/12472430_10208280213698380_4040565227254902943_n.jpg?oh=7e1470c60f6438acd633cfcba6d1c317&oe=5783D95E",
+    "description": "UX/UI empieza Abril con la charla \"Usability for mobile devices\". Si quieres saber las principales técnicas para trabajar la experiencia de los usuarios en plataformas mobiles y como crear experiencias memorables en los usuarios.\n\nRafael Tirado  nos estará compartiendo los resultados de una reciente investigación sobre usabilidad y nos dara ejemplos con algunas aplicaciones que usamos en el día a día\n\nEl evento es gratis y está pautado para el LUNES 4 de Abril del 2016, a partir de las 7:00 PM en el espacio de Coworking.do en la avenida 27 de Febrero casi esquina Privada.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 445153715691345,
+    "link": "https://www.facebook.com/events/445153715691345",
+    "date": 1453158000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "UX/UI Dominicana 002: UX in the real world",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xat1/t31.0-8/s720x720/12474055_10207649128001632_3712621749893149090_o.jpg",
+    "description": "UX/UI se reactiva este Enero con la charla \"UX in the real world\". Si quieres saber las principales técnicas para trabajar User Experience ahora mismo en lugar donde trabajas esta es la charla para ti.\n\nClaudio Henriquez, nos estara compartiendo cuatro de las técnicas mas conocidas. Claudio tiene multiples años de experiencia en el area de UX/UI, trabajando como freelancer con multiples startups y estudios internacionalmente. Actualmente cursa una tecnicatura en Diseño Agil de Experiencia de Usuario de la universidad de Palermo en Buenos Aires, Argentina.\n\nEl evento es gratis y está pautado para el LUNES 18 de Enero del 2016, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 496486830522694,
+    "link": "https://www.facebook.com/events/496486830522694",
+    "date": 1449788400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "PyLadies + UI/UX Dominicana:  Designers Night",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xat1/t31.0-8/s720x720/11053239_10207415874170432_2572409034827939622_o.jpg",
+    "description": "En este evento estaremos celebrando junto con PyLadies la reiniciación de la comunidad de UI/UX, tendremos cervezas gratis y una que otra picadera.\n\nSi estas interesad@ en la programación y/o Diseño te invitamos a que participes en este evento para que conozcas al resto de la comunidad. \n\nEl evento es gratis y está pautado para el JUEVES 10 de Diciembre del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 838378836185997,
+    "link": "https://www.facebook.com/events/838378836185997",
+    "date": 1406156400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "UX/UI Dominicana: Tipografía",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/s720x720/10384104_10154356813235285_215150186062595362_n.jpg?oh=cc5a5cc745a401f2b0ad383b0225469f&oe=578FAC16",
+    "description": "En la siguiente entrega de UX/UI Dominicana, Omar García (Angurria) nos va a hablar de Tipografía. \n\nEstaremos viendo una introducción a la tipografía, exploraremos muy brevemente un poco de historia y veremos cómo la tipografía se convirtió en un recurso tan importante a la hora de comunicar con información escrita. También estaremos compartiendo tips de cómo seleccionar y combinar fuentes que funcionen en las interfaces, que se vean bien y soporten claramente el mensaje que queremos comunicar. \n\nEl evento está pautado para el Miércoles 23 de Julio a las 7:00 PM de la noche en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente gratis. \nAceptamos donaciones para cubrir los costos del espacio."
+  },
+  {
+    "id": 1505111876464488,
+    "link": "https://www.facebook.com/events/1505111876464488",
+    "date": 1453849200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "C#.do - Planeando los siguientes pasos de  EmpleoDotNet (Open Source)",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xla1/t31.0-8/s720x720/12485926_10207318259209008_1847177605006042680_o.jpg",
+    "description": "En esta entrega de C#.do estaremos trabajando con el proyecto de EmpleoDotNet, mostrando la estrategia que tomaremos para\n(a) Planear futuros pasos del proyecto\n(b)  Crear una version del proyecto con la  nueva versión de ASP.NET (previamente ASP.NET 5, recientemente anunciada como ASP.NET Core 1.0).\n\nSe espera de cada participante que:\n- Tenga un nivel trabajable de programación.\n- Pueda leer código C# básico sin problemas.\n- Tenga conocimientos básicos de algún server-side MVC framework (como ASP.NET MVC, Ruby on Rails, Laravel, Spring MVC, etc)\n- Tenga muchas ganas de aprender y equivocarse.\n- Tenga conocimiento básico de control de versiones (ej. git)\n\nSugerimos que si participas traigas tu laptop y que antes de venir instales lo necesario para trabajar con vNext.\n- En windows: Visual Studio 2015 (si no tienes licencia puedes descargar la edición Community que es gratis)\n- En Mac o Linux: VS Code y .NET FX\n\nEl evento es gratis y está pautado para el MARTES 26 de Enero del 2016 (el día feriado se movió al 25), a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 1572308516367667,
+    "link": "https://www.facebook.com/events/1572308516367667",
+    "date": 1432162800000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "C#.do Santo Domingo - Introducción a Entity Framework",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/s720x720/11196252_10205698734881912_410368418032336466_n.jpg?oh=6f2c4bf91d447ea5c4880611413ed1f5&oe=577470BA",
+    "description": "¿Te cansa el hecho de que cada vez que creas una tabla tienes que crear múltiples stored procedures, SqlConnections, SqlCommands, SqlDataReaders, DataSets, y demás artefactos, para cosas tan sencillas como insertar, actualizar o extraer datos de tu tabla? ¿No fuera mejor abstraerse de tener que hacer todo eso, y concentrarte principalmente en la lógica de negocios de tu aplicación?\n\nJose Gregorio Taveras nos estará dando una presentación de Entity Framework, el ORM estándar de Microsoft. Nos impartirá una introducción básica con todo lo que necesitas para comenzar de lleno con Entity Framework, y puedas ejecutar operaciones simples a tu base de datos en pocas líneas de código, de una forma legible y simple de usar.\n\nEl evento es gratis y está pautado para el MIÉRCOLES 20 de MAYO del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 829272307130165,
+    "link": "https://www.facebook.com/events/829272307130165",
+    "date": 1423177200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "C#.do Santo Domingo - Thinking Outside In C#",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10670204_10153040437166823_295349375587085751_n.jpg?oh=cc55b6e50f34d76701a24bfac6373d08&oe=578B09EC",
+    "description": "En esta entrega de C#.do Santo Domingo, Omar Javier Rodriguez nos estará dando un tour a través de todo el proceso de creación de una aplicación utilizando BDD con C# ASP.NET MVC 5 (Codeado en vivo).\n \nA través del proceso se tocaran los puntos: \n- Analisis and design\n- BDD/Gherkin/Specflow\n- Programming by wishful thinking\n- Resharper Driven Development\n- DCI Architecture\n- Hexagonal Architecture\n- Deferral of technical decisions\n- Abstracting data access layer\n- In-memory database\n- A .NET version of Repository pattern\n- Adapting to production\n- Ninject\n- Mocks vs Fakes\n\nEl evento está pautado para el JUEVES 5 de FEBRERO de 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se toma la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 1547461442189891,
+    "link": "https://www.facebook.com/events/1547461442189891",
+    "date": 1420758000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "C#.do Santo Domingo - Introducción a los principios SOLID",
+    "coverUrl": "https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-ash2/v/t1.0-0/p75x225/10425024_10204868984458670_5665066353202035937_n.jpg?oh=301038d4e85763cc08dd91a1b12b4ec5&oe=57830A03&__gda__=1468010272_978f0065690a5dd81ca14a54e256a980",
+    "description": "Hemos creado la iniciativa de impartir charlas para el grupo   de C#.do en Santo Domingo para el 2015. El objetivo de estas charlas será facilitar que los participantes puedan conocer sobre mejores prácticas de OOP, testing y arquitectura en general, utilizando C#, y conocer features de nivel intermedio/avanzado del lenguaje, de forma que las puedan investigar y utilizar en su propia labor.\n\nEn esta entrega el charlista Luis Ramirez nos estará brindando una introducción a SOLID, utilizando C#. SOLID es un conjunto de principios de desarrollo de software orientado a objetos, los cuales al ser aplicados ayudan al desarrollador a crear aplicaciones mejor organizadas, y más fáciles de mantener y extender en el futuro.\n\nEl evento está pautado para el JUEVES 8 de ENERO de 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se toma la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 411027909040292,
+    "link": "https://www.facebook.com/events/411027909040292",
+    "date": 1404426600000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "EmpleoDotNet - Discusión, progreso y expectativas",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/10458019_10203487808090124_9140781780286673766_n.jpg?oh=61673757694171a4081d4eacaf9bbe2c&oe=5772496E",
+    "description": "Si quieres involucrarte más a fondo con el proyecto Empleo Dot Net, y/o quieres ponerte al día, esta es tu oportunidad.\n\nEn esta reunión de la iniciativa Empleo Dot Net nos juntaremos en persona para conocernos, hablar del progreso que llevamos con el proyecto, evaluar lo que se ha hecho hasta ahora, guíar a aquellos que tengan dudas sobre algunos aspectos del proyecto, recibir opiniones de los participantes, coordinar sesiones 1-a-1 con moderadores del proyecto si lo desean, y hacer un poco de networking.\n\nEl evento está pautado para el JUEVES 3 de JULIO de 2014, a partir de las 6:30 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLa entrada es totalmente GRATIS."
+  },
+  {
+    "id": 238443582993722,
+    "link": "https://www.facebook.com/events/238443582993722",
+    "date": 1391209200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "C# Workshop",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xap1/t31.0-8/q90/s720x720/1529894_10153795345900624_1387524324_o.jpg",
+    "description": "Workshop de Code-Refactoring y mejores prácticas, cortesía de miembros del grupo C#.do.\n\nEl evento está abierto para todo el que quiera participar. Recibiremos entradas de código durante toda esta semana, y los analizaremos durante el evento para buscar oportunidades de mejora mediante refactoring y aplicación de buenas prácticas. \n\nSe puede subir el código al wall del evento o enviarlo por mensaje directo (inbox) a los organizadores Ahmed Ayub, Efraín Reyes, o Luis Ramirez en caso de querer permanecer anónimo. \n\nRecuerden no compartir código que sea de carácter confidencial. Pudieran remover la información o lógica de negocio confidencial y mandar un pedazo (snippet) del código que necesite refactoring, pero eviten hacerlo.\n\nEl evento está pautado para el Viernes 31 de Enero de 2014, a las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nIMPORTANTE: La entrada de la 27 de Febrero está cerrada por motivos de remodelación. Tienen que utilizar la entrada trasera, tal y como indica este croquis: http://www.scribblemaps.com/maps/view/HwU5Q0VWAi/\n\nLa entrada es totalmente GRATIS.\n\nLos esperamos!"
+  },
+  {
+    "id": 1583413305269812,
+    "link": "https://www.facebook.com/events/1583413305269812",
+    "date": 1427324400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Agnóstico #3: Software craftmanship: El mindset del programador profesional",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s720x720/11069947_10153152607001718_6037693140815399448_n.jpg?oh=98da0d8d1a59786ce4f7d53ae882bdce&oe=5789B9F5",
+    "description": "- ¿Qué nos hace profesionales?\n- ¿Cómo mejoro mi curriculum?\n- ¿Cómo aplicar a mejores trabajos de forma remota?\n- ¿Cómo aplicar a mejores trabajos locales?\n- ¿Qué hace que mi código sea \"mejor\"?\n- ¿Programar fuera del trabajo? ¿Para qué?\n- Además de dominar un lenguaje ¿Qué más necesito para ser un mejor dev?\n- ¿Open Source? ¿Por qué? ¿Cómo comienzo?\n- ¿Code Reviews?\n- ¿Code Katas?\n\nTodas estas preguntas las estaremos analizando en nuestra próxima reunión a cargo de Ahmed Ayub.\n\nEl evento es gratis y está pautado para el MIERCOLES 25 de MARZO del 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0"
+  },
+  {
+    "id": 330440103812025,
+    "link": "https://www.facebook.com/events/330440103812025",
+    "date": 1422486000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "Agnóstico #1: Setting Up Your Software Engineering Process For Success",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/10402968_10153022211156718_2626044926838317468_n.jpg?oh=e53a600532ad25fd27ccefc272b6fdd1&oe=57840008",
+    "description": "Hemos comenzado un nuevo usergroup para desarrolladores bajo la bandera de Developers Dominicanos donde trataremos temas que son agnósticos a los lenguajes de programación. Es decir, sin importar cuál es el lenguaje de programación en el que trabajas, los temas que trataremos serán de interés para todos.\n\nHoy por hoy, la cantidad de herramientas que se utilizan en una factoría de software crece exponencialmente. Build Servers, Sistema de chat, Deployments de prueba, Unit Tests, Sistemas de control de versiones, Team Calendar, Meetings, y así sucesivamente.  Ven y aprende How we get it done™ the Megsoft Consulting Inc. Way\n\nEl evento es gratis y habrá degustación de cerveza Dead Guy también gratis!\n\nEl evento está pautado para el MIERCOLES 28 de ENERO de 2015, a partir de las 7:00 PM en el espacio de coworking.do, en la Avenida 27 de Febrero casi esquina Privada (llegando desde la Av. Núñez de Cáceres), en la Torre Forum, 3er piso.\n\nEl edificio tiene acceso tanto por la 27 de febrero como entrando por la calle 2 (primera calle a la derecha si se coge la Privada). Hay parqueos disponibles en toda la primera planta donde se pueden parquear. Para subir al 3er piso pueden tomar el ascensor o las escaleras.\n\nUbicación en Google Maps: http://bit.ly/1fXPlk0\n\nLivestreaming: https://new.livestream.com/accounts/5075368/events/3766045"
+  },
+  {
+    "id": 1429844337274667,
+    "link": "https://www.facebook.com/events/1429844337274667",
+    "date": 1400212800000,
+    "place": {
+      "name": "Bräu Marketbar",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.508347988613,
+        "longitude": -69.947762870246,
+        "street": "Cuesta Hermosa Town Center, Cuesta Hermosa II y Av. Sarasota, al lado de Movie Max, Bella Vista.",
+        "zip": "123456"
+      },
+      "id": "567911609918338"
+    },
+    "title": "#DevBorrachos 16 Mayo 2014",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10313982_10203199452521415_2505515510723640403_n.jpg?oh=11ddafe9ed5d48de0cd132b76a26de7f&oe=578CA3CE",
+    "description": "Démonos unos tragos con otros Developers (si no bebes alcohol puedes tomar agua o refresco) en Don Pincho este viernes."
+  },
+  {
+    "id": 459724224156569,
+    "link": "https://www.facebook.com/events/459724224156569",
+    "date": 1398379500000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "#Ruby.do - jRuby",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/1610050_10153772728845408_192792615_n.jpg?oh=c14b165b3bb85caf2d42c0f9d19ee8b0&oe=578F1036",
+    "description": "Vamos a ampliar sobre lo tocado en la charla pasada de jRuby. Hablaremos de como crear webapps, hacer deployment y otros temas."
+  },
+  {
+    "id": 414257615344051,
+    "link": "https://www.facebook.com/events/414257615344051",
+    "date": 1395961200000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "#Ruby.do - Tu Ambiente de Desarrollo en la Nube",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-ash2/t31.0-8/s720x720/1913310_10153766115105408_87247281_o.jpg",
+    "description": "Sube al proximo nivel y aprende a manejar todo tu ambiente de desarrollo directamente a la nube.\n\nYa no tienes que depender de andar con una super laptop configurada con todas las herramientas y frameworks. \n\nSolo te basta con un browser para acceder a tu entorno completo de desarrollo.\n\nAunque la charla va a tratar el caso de Ruby esto aplica para: Ruby, Python, NodeJS, HTML+CSS+JS y algunas otras plataformas.\n\nEn esta ocasión tendremos algunos regalos de parte de nuestros Sponsors para nuestros miembros."
+  },
+  {
+    "id": 426863217447880,
+    "link": "https://www.facebook.com/events/426863217447880",
+    "date": 1394845200000,
+    "place": {
+      "name": "Don Pincho",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466567831191,
+        "longitude": -69.928025070954
+      },
+      "id": "147416898640133"
+    },
+    "title": "#DevBorrachos 14 Mar 2014 en Don Pincho",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1622763_10202741441391423_1176281298_n.jpg?oh=6669e5bfe070a4f0027f35b94cde2c37&oe=57885DE4",
+    "description": "Celebremos Pi Day dándonos unos tragos con Developers Dominicanos en Don Pincho el viernes 14 a partir de las 9 PM."
+  },
+  {
+    "id": 400339606777309,
+    "link": "https://www.facebook.com/events/400339606777309",
+    "date": 1393030800000,
+    "place": {
+      "name": "Don Pincho",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.466567831191,
+        "longitude": -69.928025070954
+      },
+      "id": "147416898640133"
+    },
+    "title": "#DevBorrachos 21 Feb 2014 en Don Pincho",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1781953_10202620120918487_431817635_n.jpg?oh=35520d4b71f9b9cc78b080f8ff48bd94&oe=578AC502",
+    "description": "Démonos unos tragos con otros Developers Dominicanos en Don pincho. Si usted no bebe, venga también! Y tome agua :)\n\nComenzaremos a las 9 PM pero los que vayan al evento de Dart Flight School - Santo Domingo pueden venir aunque sea más tarde a acompañarnos."
+  },
+  {
+    "id": 481031715348009,
+    "link": "https://www.facebook.com/events/481031715348009",
+    "date": 1386887400000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "#Ruby.do - jRuby",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1461024_10153540306995408_2070512725_n.jpg?oh=0b6328fcf3103d4d4d7aee1fd35cf5f2&oe=5784DF44",
+    "description": "Hablaremos sobre jRuby, una implementación de Ruby que corre sobre la JVM"
+  },
+  {
+    "id": 1060371157346721,
+    "link": "https://www.facebook.com/events/1060371157346721",
+    "date": 1459620000000,
+    "place": {
+      "name": "coworking.do",
+      "location": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "latitude": 18.452316086902,
+        "longitude": -69.960726528931,
+        "street": "Av. 27 de febrero casi esq. Privada, Torre Forum, 3er nivel, local 3b",
+        "zip": "10149"
+      },
+      "id": "225704387588848"
+    },
+    "title": "CocoStudio #1",
+    "coverUrl": "https://scontent.xx.fbcdn.net/hphotos-xlt1/v/t1.0-9/12814401_10154620763558047_3760531140746043210_n.jpg?oh=301a54da6c5fc92cc8a7ec855c33c639&oe=5772B6FD",
+    "description": "CocoStudio es una herramienta de desarrollo de videojuegos que permite distribuir las tareas que conlleva desarrollar un videojuego en los diferentes roles del equipo, este incluye:\n\n* Editor de UI para diseñadores gráficos\n* Editor de animación\n* Number cruncher para diseñadores de data de juegos\n* Editor de escenas para diseñadores de juegos\n\nEste será un taller de una serie de dos. En este primer taller de Cocos Studio exploraremos la interfaz y funcionalidades básicas del programa. Veremos  cómo importar sprites, crear escenas y layers, utilizar sistemas de partículas, agregar botones, menús, etc. Con estas funcionalidades crearemos una escena sencilla para un juego al que, en el segundo taller, se le agregará código en Cocos2dx para que sea \"jugable\".\n\nImpartido por Nicole Lara"
+  }
+]
