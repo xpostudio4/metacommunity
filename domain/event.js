@@ -11,6 +11,8 @@ function createEvent(state) {
       return state.date <= now;
     },
     date: state.date,
+    link: state.link,
+    place: state.place,
     title: state.title,
     coverUrl: state.coverUrl,
     description: state.description
