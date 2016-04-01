@@ -9,6 +9,10 @@ const config = require('./config');
 const db = require('./db');
 // This library help us to interact with post requests
 const parse = require('co-body');
+const moment = require('moment');
+
+const createEvent = require('./domain/event');
+const createFileSystemEventSource = require('./services/file-system-event-source');
 
 const TEMPORAL_DIR = path.join(process.cwd(), '.tmp');
 
@@ -38,7 +42,26 @@ function *renderDonations(){
 }
 
 function *renderEvents(){
-  yield this.render('events', {});
+  const source = createFileSystemEventSource({
+    path: path.join(TEMPORAL_DIR, 'events.json'),
+    factory: createEvent
+  });
+
+  const eventProvider = {
+    *getAll() {
+      return yield source.getAll();
+    }
+  };
+
+  const events = yield eventProvider.getAll();
+  const isPending = (e) => !e.isDue;
+  const filteredEvents = events.filter(isPending);
+
+  const formatDate = (format, date) => {
+    return moment(date).format(format);
+  };
+
+  yield this.render('events', {events: filteredEvents, formatDate});
 }
 
 function *renderTalkSubmissionForm() {
