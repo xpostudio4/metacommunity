@@ -110,10 +110,16 @@ i {
 #off-menu {
 	.uk-offcanvas-bar {
 		background: $blue;
+		.uk-nav-offcanvas {
+			border-bottom: 0px;
+			box-shadow: 0px 0px 0px;
+		}
 		li {
 			a {
 				text-shadow: 0px 0px 0px;
 				color: $white;
+				box-shadow: 0px 0px 0px;
+				border-top: 0px;
 				&:hover {
 					background: darken($blue, 10%);
 				}
