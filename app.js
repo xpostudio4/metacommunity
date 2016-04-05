@@ -41,6 +41,12 @@ function *renderDonations(){
   yield this.render('donations', {});
 }
 
+function *renderSponsors(){
+  const sponsors = yield db.sponsors.find();
+  const context = {sponsors:sponsors};
+  yield this.render('sponsors', context);
+}
+
 function *renderEvents(){
   // TODO: Inject source dependency.
   const source = createFileSystemEventSource({
@@ -122,6 +128,7 @@ app.use(routes.get('/donations', renderDonations));
 app.use(routes.get('/events', renderEvents));
 app.use(routes.get('/speakers', renderTalkSubmissionForm));
 app.use(routes.post('/speakers', submitTalk));
+app.use(routes.get('/sponsors', renderSponsors));
 app.use(routes.get('/usergroup', usergroup));
 app.use(pageNotFound);
 
