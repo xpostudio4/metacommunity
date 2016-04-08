@@ -3,5 +3,6 @@ module.exports = {
   event: require('./event').routes(),
   home: require('./home').routes(),
   talk: require('./talk').routes(),
-  user: require('./user').routes()
+  user: require('./user').routes(),
+  sponsor: require('./sponsor').routes()
 };
