@@ -165,6 +165,14 @@ i {
 			margin-bottom: 30px
 		}
 	}
+
+	.sponsor-slider {
+		li {
+			img {
+				filter: grayscale(1);
+			}
+		}
+	}
 }
 
 footer {

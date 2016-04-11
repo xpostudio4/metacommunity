@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="./css/uikit.min.css" />
     <link rel="stylesheet" href="./css/animate.css" />
     <link rel="stylesheet" href="./css/morphext.css" />
+    <link rel="stylesheet" href="./css/slick.css" />
+    <link rel="stylesheet" href="./css/slick-theme.css" />
     <link rel="stylesheet" href="./css/main.css" />
 
     {% block extra_css %}
@@ -70,27 +72,29 @@
       </div>
     </div>
 
-  <!--  <div class="footer-sponsors">
+   <div class="footer-sponsors">
       <div class="uk-container uk-container-center">
         <div class="uk-grid">
           <div class="uk-width-small-1-1">
             <h2 class="uk-text-center">Patrocinadores</h2>
           </div>
-          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
-            <a href=""><img src="img/sponsor-megsoft.png" alt=""></a>
-          </div>
-          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
-            <a href=""><img src="img/sponsor-coworking.png" alt=""></a>
-          </div>
-          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
-            <a href=""><img src="img/sponsor-pixel.png" alt=""></a>
-          </div>
-          <div class="uk-width-small-1-2 uk-width-medium-1-4 uk-text-center-small">
-            <a href=""><img src="img/sponsor-codetiger.png" alt=""></a>
+          <div class="uk-width-small-1-1">
+              <ul class="sponsor-slider">
+                <li><a href=""><img src="img/sponsors/sponsor-megsoft.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/sponsor-coworking.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/sponsor-pixel.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/sponsor-codetiger.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/codemera.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/google.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/intec.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/marcosdo.png" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/pixelperfecttree.jpg" alt=""></a></li>
+                <li><a href=""><img src="img/sponsors/psf.png" alt=""></a></li>
+              </ul>
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
 
     <footer>
       <div class="uk-container uk-container-center">
@@ -151,6 +155,7 @@
 
   <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <script src="./js/uikit.min.js"></script>
+    <script src="./js/slick.min.js"></script>
     <script src="./js/morphext.min.js"></script>
 
     <script >
@@ -161,6 +166,42 @@
           complete: function () {
           }
       });
+    </script>
+    <script >
+       $('.sponsor-slider').slick({
+         speed: 2000,
+          autoplay: true,
+          infinite: true,
+          autoplaySpeed: 0,
+          cssEase: 'linear',
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          pauseOnHover: true,
+          responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 4,
+              slidesToScroll: 1,
+              infinite: true
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+     });
     </script>
   </body>
 
