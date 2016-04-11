@@ -66,8 +66,9 @@ a {
 
 i {
 	color: $blue;
-	-webkit-text-stroke: 2px $blue;
-	-webkit-text-fill-color: transparent;
+	line-height: 1;
+	// -webkit-text-stroke: 2px $blue;
+	// -webkit-text-fill-color: transparent;
 }
 
 ////////////////////////////////
