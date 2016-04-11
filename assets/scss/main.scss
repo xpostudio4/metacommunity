@@ -375,7 +375,7 @@ footer {
 		//Events//
 ////////////////////////////////
 
-.events-header {
+.events-header, .sponsors-header {
 	padding: 70px 0px;
 	background: url('../img/events.jpg') no-repeat 0px -200px;
 	background-size: cover;
@@ -383,6 +383,31 @@ footer {
 		text-shadow: 0px 1px 1px #666;
 		color: $white;
 		font-size: 50px;
+	}
+}
+
+////////////////////////////////
+		//Sponsors//
+////////////////////////////////
+.sponsors {
+	padding: 50px 0px;
+	h2 {
+			font-size: 36px;
+			margin-bottom: 50px !important;
+	}
+	h3 {
+		font-size: 28px;
+		margin: 0;
+	}
+	h4 {
+		font-size: 24px;
+		margin: 0;
+	}
+	img {
+		-webkit-filter: grayscale(1);
+		-webkit-filter: grayscale(100%);
+		filter: gray;
+		filter: grayscale(100%);
 	}
 }
 
