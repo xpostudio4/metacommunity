@@ -186,6 +186,16 @@ footer {
 			float: right;
 		}
 	}
+	.footer-newsletter {
+		input {
+			margin-bottom: 10px;
+		}
+		.btn-blue {
+			float: right;
+			border-radius: 5px;
+			color: $white;
+		}
+	}
 	.footer-linklist {
 		@media (max-width: $sm) {
 			margin-bottom: 30px !important;
