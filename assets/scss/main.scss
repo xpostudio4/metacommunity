@@ -67,9 +67,19 @@ a {
 i {
 	color: $blue;
 	line-height: 1;
-	// -webkit-text-stroke: 2px $blue;
-	// -webkit-text-fill-color: transparent;
 }
+
+.slick-track {
+height: 150px;
+}
+
+.slick-initialized {
+	.slick-slide {
+		display: flex;
+		align-items: center;
+	}
+}
+
 
 ////////////////////////////////
 		//Navbar//
@@ -259,6 +269,9 @@ footer {
 	.rw-words{
 		display: inline;
 		margin-left: 10px;
+		@media (max-width: $sm) {
+			display: block;
+		}
 	}
 	.rw-words-1 span {
 		position: absolute;
